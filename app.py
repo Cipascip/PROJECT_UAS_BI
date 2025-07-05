@@ -10,39 +10,25 @@ st.set_page_config(layout="wide", page_title="Dashboard Analisis Bansos")
 st.title("Dashboard Analisis Penerima Bantuan Sosial (Bansos)")
 st.markdown("Dashboard interaktif untuk menganalisis data penerima bansos.")
 
-# --- MEMBUAT DATA SAMPEL (MOCK DATA) ---
+# --- MEMUAT DATA YANG SUDAH DIPROSES ---
 @st.cache_data
-def create_mock_data():
-    """Membuat DataFrame sampel untuk analisis."""
-    np.random.seed(42) 
-    jumlah_data = 10000
-    
-    provinsi = [
-        'Aceh', 'Sumatera Utara', 'Sumatera Barat', 'Riau', 'Jambi', 'Sumatera Selatan', 
-        'DKI Jakarta', 'Jawa Barat', 'Jawa Tengah', 'DI Yogyakarta', 'Jawa Timur', 
-        'Banten', 'Bali', 'Kalimantan Barat', 'Kalimantan Tengah', 'Kalimantan Selatan', 
-        'Kalimantan Timur', 'Sulawesi Utara', 'Sulawesi Tengah', 'Sulawesi Selatan', 
-        'Maluku', 'Papua'
-    ]
-    status_kse = ['Sangat Layak', 'Layak', 'Dipertimbangkan']
-    jenis_pekerjaan = [
-        'Petani', 'Buruh Harian', 'Nelayan', 'Pedagang Kecil', 
-        'Tidak Bekerja', 'Guru Honorer', 'Lainnya'
-    ]
-    
-    data = {
-        'Nama_Penerima': [f'Penerima_{i}' for i in range(jumlah_data)],
-        'Usia': np.random.randint(18, 81, size=jumlah_data),
-        'Provinsi': np.random.choice(provinsi, jumlah_data),
-        'Jenis_Pekerjaan': np.random.choice(jenis_pekerjaan, jumlah_data, p=[0.2, 0.2, 0.1, 0.2, 0.1, 0.1, 0.1]),
-        'Status_KSE': np.random.choice(status_kse, jumlah_data, p=[0.3, 0.5, 0.2]),
-        'Skor_KSE': np.random.randint(40, 100, size=jumlah_data)
-    }
-    df = pd.DataFrame(data)
-    return df
+def load_data():
+    """Memuat data bersih dari file Parquet."""
+    try:
+        df = pd.read_parquet("processed_data/bansos_data_cleaned.parquet")
+        return df
+    except FileNotFoundError:
+        return None
 
-# Memuat data
-df = create_mock_data()
+# Memuat data dan menangani error jika file tidak ada
+df = load_data()
+
+if df is None:
+    st.error(
+        "File data yang telah diproses (processed_data/bansos_data_cleaned.parquet) tidak ditemukan. "
+        "Mohon jalankan skrip `preprocess.py` terlebih dahulu di terminal dengan perintah: `python preprocess.py`"
+    )
+    st.stop()
 
 st.markdown("---")
 
@@ -52,24 +38,22 @@ st.markdown("---")
 st.subheader("1. Jumlah Penerima Bansos per Provinsi Berdasarkan Kelayakan (KSE)")
 kse_per_provinsi = df.groupby(['Provinsi', 'Status_KSE']).size().reset_index(name='Jumlah')
 
-# ---> PERBAIKAN: Mengubah barmode dari 'group' menjadi 'stack' <---
 fig1 = px.bar(
     kse_per_provinsi,
     x='Provinsi',
     y='Jumlah',
     color='Status_KSE',
-    barmode='stack', # Menggunakan stacked bar chart
+    barmode='stack', 
     title='Komposisi Kelayakan Penerima Bansos per Provinsi',
     labels={'Jumlah': 'Jumlah Penerima', 'Provinsi': 'Provinsi', 'Status_KSE': 'Status KSE'},
     color_discrete_map={
-        'Sangat Layak': '#2E86C1',
+        'Sangat Layak': '#2980B9',
         'Layak': '#5DADE2',
         'Dipertimbangkan': '#AED6F1'
     },
-    text_auto=True, # Menampilkan angka di dalam setiap segmen bar
+    text_auto=False, 
     height=600 
 )
-# Mengurutkan bar berdasarkan total jumlah penerima dari yang terbanyak
 fig1.update_xaxes(categoryorder='total descending') 
 st.plotly_chart(fig1, use_container_width=True)
 
@@ -88,7 +72,7 @@ fig2 = px.bar(
     title='Rata-Rata Skor KSE per Provinsi (Terendah = Terbaik)',
     labels={'Skor_KSE': 'Rata-Rata Skor KSE', 'Provinsi': 'Provinsi'},
     text_auto='.2f',
-    height=600
+    height=700 # Menambah tinggi karena lebih banyak provinsi
 )
 fig2.update_layout(yaxis={'categoryorder':'total ascending'}) 
 st.plotly_chart(fig2, use_container_width=True)
@@ -161,7 +145,7 @@ if provinsi_pengangguran == "Semua Provinsi":
         title=judul_unemployed,
         labels={'Jumlah': 'Jumlah Pengangguran', 'Provinsi': 'Provinsi'},
         text_auto=True,
-        height=600
+        height=700 # Menambah tinggi karena lebih banyak provinsi
     )
     st.plotly_chart(fig4, use_container_width=True)
 else:
