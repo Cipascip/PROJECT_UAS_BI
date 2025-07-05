@@ -1,0 +1,47 @@
+# Nama workflow yang akan muncul di tab "Actions" di GitHub
+name: Pre-process Bansos Data
+
+# Pemicu (trigger) untuk menjalankan workflow ini
+on:
+  push:
+    # Hanya jalankan jika ada perubahan pada file CSV ini
+    paths:
+      - 'Data_cleaning_sipa.csv'
+  workflow_dispatch:
+    # Memungkinkan kita menjalankan workflow ini secara manual dari tab Actions
+permissions:
+  contents: write
+# Daftar pekerjaan (jobs) yang akan dijalankan
+jobs:
+  build-and-commit:
+    # Menentukan bahwa job ini akan berjalan di mesin virtual Ubuntu terbaru
+    runs-on: ubuntu-latest
+
+    steps:
+
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run preprocessing script
+        run: python preprocess.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Commit and push if it changed
+        run: |
+          git add processed_data/bansos_data_cleaned.parquet
+          # Commit hanya jika ada perubahan yang di-stage
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Automated: Update preprocessed data" && git push)
