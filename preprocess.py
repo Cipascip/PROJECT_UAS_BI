@@ -1,6 +1,7 @@
 import pandas as pd
 import os
 
+# --- PENGATURAN NAMA FILE ---
 INPUT_CSV_FILE = "Data_cleaning_sipa.csv"
 OUTPUT_DIR = "processed_data"
 OUTPUT_PARQUET_FILE = f"{OUTPUT_DIR}/bansos_data_cleaned.parquet"
@@ -22,49 +23,50 @@ def preprocess_real_data():
     # Membaca data CSV asli dengan separator titik-koma (;)
     print("Membaca file CSV...")
     try:
-        df = pd.read_csv(INPUT_CSV_FILE, sep=';')
+        # ----> PERBAIKAN UTAMA ADA DI BARIS INI <----
+        # Menambahkan encoding='latin-1' yang lebih toleran terhadap karakter non-UTF8
+        df = pd.read_csv(INPUT_CSV_FILE, sep=';', encoding='latin-1')
         print("File CSV berhasil dibaca.")
     except Exception as e:
         print(f"Terjadi error saat membaca file CSV: {e}")
         return
-
+        
     # Membersihkan spasi di awal/akhir nama kolom
     df.columns = df.columns.str.strip()
     print("Nama kolom setelah dibersihkan dari spasi:", df.columns.tolist())
 
     # --- PENGUBAHAN NAMA KOLOM AGAR SESUAI DENGAN KEBUTUHAN APLIKASI ---
-    # Ini adalah kunci untuk memperbaiki KeyError di app.py
     column_mapping = {
         'NAMA KK': 'Nama_Penerima',
         'PROVINSI': 'Provinsi',
         'USIA': 'Usia',
         'PEKERJAAN': 'Jenis_Pekerjaan',
         'KSE': 'Skor_KSE',
-        'KATEGORI': 'Status_KSE' # Kita asumsikan KATEGORI adalah Status KSE (menerima/tidak)
+        'KATEGORI': 'Status_KSE'
     }
     df.rename(columns=column_mapping, inplace=True)
     
     # --- PEMBERSIHAN DATA LANJUTAN ---
-    # Mengganti nilai 'menerima bansos' / 'Tidak menerima bansos' menjadi lebih standar jika diperlukan
-    # Contoh ini tidak mengubahnya, tetapi ini adalah tempat untuk melakukannya
-    print("Kolom setelah di-rename:", df.columns.tolist())
-    
-    # Menangani kolom 'PENDAPATAN' yang memiliki 'Rp' dan spasi
     if 'PENDAPATAN' in df.columns:
-        df['PENDAPATAN'] = df['PENDAPATAN'].replace(r'[^\d]', '', regex=True).astype(float)
-        
+        # Menghapus semua karakter non-numerik sebelum konversi
+        df['PENDAPATAN'] = df['PENDAPATAN'].astype(str).replace(r'[^\d]', '', regex=True)
+        # Mengisi nilai kosong yang mungkin muncul setelah pembersihan dengan 0
+        df['PENDAPATAN'].replace('', '0', inplace=True)
+        df['PENDAPATAN'] = pd.to_numeric(df['PENDAPATAN'], errors='coerce').fillna(0)
+
     # Pastikan tipe data Usia dan Skor KSE adalah numerik
     df['Usia'] = pd.to_numeric(df['Usia'], errors='coerce')
     df['Skor_KSE'] = pd.to_numeric(df['Skor_KSE'], errors='coerce')
 
-    df.dropna(subset=['Usia', 'Skor_KSE'], inplace=True) # Hapus baris jika Usia atau Skor_KSE kosong
+    df.dropna(subset=['Usia', 'Skor_KSE'], inplace=True) 
     df['Usia'] = df['Usia'].astype(int)
     
     print(f"Data setelah pembersihan memiliki {df.shape[0]} baris.")
 
     # Menyimpan DataFrame yang sudah bersih ke format Parquet
     df.to_parquet(OUTPUT_PARQUET_FILE)
-    print(f"Data berhasil diproses dan disimpan ke: '{OUTPUT_PARQUET_FILE}'")
+    print(f"\nData berhasil diproses dan disimpan ke: '{OUTPUT_PARQUET_FILE}'")
+
 
 if __name__ == '__main__':
     preprocess_real_data()
