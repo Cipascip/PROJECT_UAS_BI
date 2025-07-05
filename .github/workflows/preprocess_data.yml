@@ -9,7 +9,8 @@ on:
       - 'Data_cleaning_sipa.csv'
   workflow_dispatch:
     # Memungkinkan kita menjalankan workflow ini secara manual dari tab Actions
-
+permissions:
+  contents: write
 # Daftar pekerjaan (jobs) yang akan dijalankan
 jobs:
   build-and-commit:
