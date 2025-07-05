@@ -1,487 +1,487 @@
-NAMA KK,NIK,DOMISILI,PROVINSI,TANGGAL LAHIR,USIA,PEKERJAAN, PENDAPATAN ,JUMLAH ANGGOTA KEL,JML IBU HAMIL,JML BALITA,JML LANSIA,JML ANAK PUTUS SEKOLA,JML ANGGOTA DISABILITAS,KSE,KATEGORI
-Mana Wayudin,3200506431157410,Semarang,Jawa Tengah,11/21/1974,50,Buru," Rp1,000,000 ",7,0,2,2,2,0,4,menerima bansos
-Ozy Usada,3200350801577370,Padang,Sumatera Barat,3/25/1993,32,Buru," Rp2,000,000 ",5,0,2,0,1,1,4,menerima bansos
-Kenzie Ardianto,3200663704259220,Manado,Sulawesi Utara,10/9/1991,33,Petani," Rp500,000 ",5,1,1,2,0,1,3,Tidak menerima bansos
-Balamantri Nurdiyanti,3200201606425940,Medan,Sumatera Utara,1/21/1969,56,Petani," Rp2,000,000 ",7,0,3,1,2,1,4,menerima bansos
-Xanana Saefulla,3200651988276490,Lampung,Lampung,9/26/1971,53,Wiraswasta," Rp1,000,000 ",6,0,1,2,2,0,3,Tidak menerima bansos
-Ica Nababan,3200918811608090,Semarang,Jawa Tengah,2/11/1985,40,Karyawan," Rp500,000 ",3,0,0,2,1,0,2,Tidak menerima bansos
-Kariman Puspasari,3200867299084200,Merauke,Papua Selatan,11/5/1968,56,Wiraswasta," Rp1,000,000 ",3,1,0,0,1,0,1,Tidak menerima bansos
-Yance Simbolon,3200326079505170,Manokwari,Papua Barat,6/7/1977,48,Wiraswasta," Rp2,000,000 ",7,1,1,1,1,2,3,Tidak menerima bansos
-Nyana Mustofa,3200381497381750,Padang,Sumatera Barat,7/1/2000,25,Petani," Rp2,000,000 ",3,1,0,1,1,0,1,Tidak menerima bansos
-Calista Siombing,3200703094591120,Malang,Jawa Timur,8/30/1971,53,Tidak Bekerja, Rp-   ,4,0,1,0,1,1,2,Tidak menerima bansos
-Rati Saragi,3200568281114690,Malang,Jawa Timur,9/2/1956,68,Karyawan," Rp2,000,000 ",8,1,2,2,1,1,5,menerima bansos
-Nrima Uyaina,3200744581976920,Depok,Jawa Barat,5/24/1980,45,Tidak Bekerja, Rp-   ,5,0,0,1,2,2,3,Tidak menerima bansos
-Nilam Simanjuntak,3200835690918060,Bengkulu,Kalimantan Timur,6/26/1992,33,Buruh," Rp1,500,000 ",3,0,1,1,0,0,0,Tidak menerima bansos
-Saadat Suartini,3200552632886030,Bogor,Kalimantan Timur,1/20/1975,50,Wiraswasta," Rp1,500,000 ",2,0,0,0,2,0,1,Tidak menerima bansos
-Nilam Tamrin,3200075269036660,Merauke,Papua Selatan,7/14/1976,48,Buruh," Rp500,000 ",5,1,3,0,0,1,3,Tidak menerima bansos
-Kartika Utama,3200058341532950,Padang,Sumatera Barat,12/10/1955,69,Buruh," Rp500,000 ",4,0,0,2,1,1,3,Tidak menerima bansos
-Kjayeng Ramawati,3200205243697790,Sorong,Papua Barat,8/22/1973,51,Petani," Rp2,000,000 ",4,1,2,0,0,1,2,Tidak menerima bansos
-Bambang Pratama,3200237575419220,Pekanbaru,Riau,9/13/1997,27,Petani," Rp500,000 ",7,1,2,2,1,1,5,menerima bansos
-Ina Prakasa,3200121783027790,Depok,Jawa Barat,5/18/1981,44,Wiraswasta," Rp2,000,000 ",5,0,1,0,2,2,3,Tidak menerima bansos
-Kania Agustina,3200142017816730,Depok,Jawa Barat,3/13/1957,68,Buruh," Rp1,500,000 ",6,0,2,2,1,1,5,menerima bansos
-Bagas Sudiati,3200950761074760,Lampung,Lampung,12/22/1974,50,Karyawan," Rp1,500,000 ",8,1,2,0,2,2,4,menerima bansos
-Alika Nurdiyanti,3200269965474000,Bogor,Kalimantan Timur,4/17/1986,39,Wiraswasta," Rp1,500,000 ",7,0,0,2,2,2,4,menerima bansos
-Saiful Zulkarnain,3200502796320180,Pontianak,Kalimantan Barat,10/8/1986,38,Petani," Rp2,000,000 ",7,1,1,2,0,2,3,Tidak menerima bansos
-Eru Nurdiyanti,3200255208142300,Manokwari,Papua Barat,5/16/1956,69,Karyawan," Rp2,000,000 ",5,0,1,1,1,2,3,Tidak menerima bansos
-Emong Yolanda,3200616419224810,Lampung,Lampung,6/25/1956,69,Buruh," Rp1,500,000 ",7,1,3,1,1,1,4,menerima bansos
-Asmadi Idayat,3200836741578120,Manokwari,Papua Barat,3/4/1970,55,Tidak Bekerja, Rp-   ,6,1,2,1,2,0,3,Tidak menerima bansos
-Ana Wijaya,3200496159975430,Gorontalo,Gorontalo,6/14/1979,46,Karyawan," Rp1,500,000 ",8,1,1,1,2,2,3,Tidak menerima bansos
-Aisya Widiastuti,3200554938092170,Malang,Jawa Timur,8/8/1967,57,Tidak Bekerja, Rp-   ,3,1,0,1,0,0,0,Tidak menerima bansos
-Rwani Dabukke.,3200656604053440,Balikpapan,Kalimantan Timur,10/5/1995,29,Petani," Rp2,000,000 ",3,0,1,2,0,0,1,Tidak menerima bansos
-Warta Sirait,3200253958994370,Banjarmasin,Kalimantan Selatan,5/5/1997,28,Karyawan," Rp2,000,000 ",9,0,3,2,2,2,5,menerima bansos
-Nadine Agustina,3200544320779410,Semarang,Jawa Tengah,7/7/1995,29,Wiraswasta," Rp500,000 ",1,0,0,1,0,0,0,Tidak menerima bansos
-Ani Aryanti,3200997904086320,Palembang,Sumatera Selatan,7/17/1965,59,Tidak Bekerja, Rp-   ,5,1,1,1,2,0,2,Tidak menerima bansos
-Timbul Lailasari,3200067453051590,Pontianak,Kalimantan Barat,9/16/1998,26,Tidak Bekerja, Rp-   ,6,0,3,2,0,1,4,menerima bansos
-Tgkbalapati Zulaika,3200877894543080,Palu,Sulawesi Tengah,1/12/1994,31,Tidak Bekerja, Rp-   ,5,0,3,2,0,0,3,Tidak menerima bansos
-Fitria Suwarno,3200019416155290,Bandung,Jawa Barat,7/18/1994,30,Buruh," Rp500,000 ",5,0,0,2,2,0,3,Tidak menerima bansos
-Kamila Prasetya,3200220997567220,Depok,Jawa Barat,11/10/1975,49,Petani," Rp500,000 ",4,1,1,0,0,2,1,Tidak menerima bansos
-Rangga Saefulla,3200867945419780,Pontianak,Kalimantan Barat,10/19/1990,34,Buruh," Rp2,000,000 ",6,0,3,1,1,1,4,menerima bansos
-Rlatika Widiastuti,3200295234173500,Semarang,Jawa Tengah,4/28/1957,68,Buruh," Rp1,000,000 ",3,0,2,1,0,0,1,Tidak menerima bansos
-Sabri Ramawati,3200901312221380,Manokwari,Papua Barat,2/15/1993,32,Buruh," Rp1,500,000 ",4,0,0,1,0,2,1,Tidak menerima bansos
-Tgkwisnu Pudjiastuti.,3200451788016290,Gorontalo,Gorontalo,4/24/1978,47,Wiraswasta," Rp1,000,000 ",4,1,1,1,0,0,0,Tidak menerima bansos
-Lanang Kusumo,3200542445192850,Balikpapan,Kalimantan Timur,5/23/1961,64,Petani," Rp1,500,000 ",5,0,1,2,2,0,3,Tidak menerima bansos
-Zamira Rajata,3200288646192550,Banjarmasin,Kalimantan Selatan,12/6/1965,59,Tidak Bekerja, Rp-   ,5,1,0,0,2,1,3,Tidak menerima bansos
-Vino Pangestu,3200589357447990,Pekanbaru,Riau,3/1/1991,34,Tidak Bekerja, Rp-   ,3,1,0,0,2,0,1,Tidak menerima bansos
-Martani Farida,3200266586482850,Bengkulu,Kalimantan Timur,3/27/1962,63,Tidak Bekerja, Rp-   ,7,1,3,0,0,2,3,Tidak menerima bansos
-Rudi Laksita,3200441534857040,Makassar,Sulawesi Selatan,4/23/1989,36,Wiraswasta," Rp1,500,000 ",4,0,1,0,1,1,2,Tidak menerima bansos
-Vicky Simanjuntak,3200414074048480,Sorong,Papua Barat,5/6/1961,64,Buruh," Rp500,000 ",4,0,0,0,1,2,2,Tidak menerima bansos
-Mala Zulaika,3200198684945070,Malang,Jawa Timur,5/2/1965,60,Petani," Rp1,000,000 ",7,1,2,1,2,1,4,menerima bansos
-Oliva Anggriawan,3200754797345740,Depok,Jawa Barat,8/9/1960,64,Wiraswasta," Rp1,500,000 ",6,1,1,0,2,1,3,Tidak menerima bansos
-Bagiya Novitasari,3200789306152720,Pontianak,Kalimantan Barat,7/30/1975,49,Tidak Bekerja, Rp-   ,6,1,3,2,0,0,3,Tidak menerima bansos
-Julia Manullang,3200425768918090,Medan,Sumatera Utara,6/28/1975,50,Tidak Bekerja, Rp-   ,6,1,0,2,0,2,3,Tidak menerima bansos
-Samia Sinaga.,3200392334921830,Bekasi,Kalimantan Timur,12/19/1991,33,Tidak Bekerja, Rp-   ,3,0,0,0,1,2,2,Tidak menerima bansos
-Banara Kurniawan,3200731030255300,Bengkulu,Kalimantan Timur,4/14/1993,32,Buruh," Rp1,000,000 ",7,0,3,2,2,0,4,menerima bansos
-Gilda Prastuti,3200912428767820,Balikpapan,Kalimantan Timur,12/14/1987,37,Buruh," Rp1,500,000 ",5,0,2,1,1,1,4,menerima bansos
-Nadia Alima,3200331760118450,Padang,Sumatera Barat,10/13/1963,61,Wiraswasta," Rp4,000,000 ",8,1,1,2,2,2,5,menerima bansos
-Legawa Nasyida,3200790647915140,Kendari,Sulawesi Tenggara,10/12/1983,41,Karyawan," Rp1,000,000 ",3,0,0,1,0,2,1,Tidak menerima bansos
-Aditya Mustofa,3200983079485010,Depok,Jawa Barat,12/19/1974,50,Karyawan," Rp2,000,000 ",4,1,0,2,1,0,2,Tidak menerima bansos
-Gading Fujiati,3200455841289880,Jambi,Jambi,5/18/1994,31,Buruh," Rp1,500,000 ",7,1,1,1,2,2,3,Tidak menerima bansos
-Ayu Prasetyo,3200761047794050,Malang,Jawa Timur,9/22/1965,59,Tidak Bekerja, Rp-   ,8,0,3,2,2,0,4,menerima bansos
-Zara Akim,3200147063897600,Samarinda,Kalimantan Timur,2/12/1964,61,Karyawan," Rp1,500,000 ",5,1,1,2,1,0,3,Tidak menerima bansos
-Laras Akim,3200608599911780,Padang,Sumatera Barat,6/6/1998,27,Tidak Bekerja, Rp-   ,5,0,3,0,1,0,3,Tidak menerima bansos
-Arsanto Situmorang,3200323820676480,Sorong,Papua Barat,11/3/1994,30,Petani," Rp2,000,000 ",3,0,2,0,1,0,2,Tidak menerima bansos
-Puti Elisa Narpati,3200168705171870,Samarinda,Kalimantan Timur,4/22/1995,30,Petani," Rp1,200,000 ",7,1,1,2,1,2,4,menerima bansos
-Sakura Yuliarti,3200448961630130,Bengkulu,Kalimantan Timur,4/13/1970,55,Tidak Bekerja, Rp-   ,4,0,0,1,2,1,2,Tidak menerima bansos
-Galu Agustina,3200335126594390,Manado,Sulawesi Utara,3/24/1961,64,Karyawan," Rp2,000,000 ",6,0,2,2,0,1,4,menerima bansos
-Zulfa Assana,3200104555616740,Medan,Sumatera Utara,10/8/1994,30,Wiraswasta," Rp2,000,000 ",7,0,2,0,2,2,4,menerima bansos
-Paiman Wibisono,3200182157993800,Manado,Sulawesi Utara,2/8/1968,57,Wiraswasta," Rp1,000,000 ",5,0,2,0,2,1,4,menerima bansos
-Wira Prakasa,3200066777893610,Merauke,Papua Selatan,10/9/1991,33,Buru," Rp500,000 ",6,1,0,1,2,1,3,Tidak menerima bansos
-Ratna Farida,3200540878347130,Gorontalo,Gorontalo,4/13/1987,38,Karyawan," Rp3,500,000 ",3,0,1,0,2,0,2,Tidak menerima bansos
-Cakrawala Winarno,3200745096107630,Pontianak,Kalimantan Barat,5/4/1959,66,Buru," Rp1,000,000 ",7,0,2,1,1,2,4,menerima bansos
-Wisnu Samosir,3200045612692040,Semarang,Jawa Tengah,2/12/1965,60,Karyawan," Rp1,000,000 ",7,0,3,2,0,1,4,menerima bansos
-Lalita Irawan,3200835837929520,Samarinda,Kalimantan Timur,7/25/1967,57,Buru," Rp1,500,000 ",6,0,0,2,1,2,4,menerima bansos
-Olivia Marbun,3200134159118750,Medan,Sumatera Utara,12/6/1990,34,Tidak Bekerja, Rp-   ,5,1,0,1,2,1,3,Tidak menerima bansos
-Lamar Dongoran,3200793380079840,Bogor,Kalimantan Timur,11/30/1958,66,Petani," Rp2,000,000 ",6,1,3,0,0,1,3,Tidak menerima bansos
-Amelia Andriani,3200336188571970,Plangkary,Kalimantan Tengah,9/13/1964,60,Wiraswasta," Rp1,000,000 ",6,1,2,0,0,2,3,Tidak menerima bansos
-Mulya Agustina,3200510560183900,Merauke,Papua Selatan,3/16/1978,47,Buru," Rp1,500,000 ",5,1,0,0,2,2,3,Tidak menerima bansos
-Puti Sadina Budiyanto,3200949374346460,Padang,Sumatera Barat,5/23/1976,49,Buru," Rp1,000,000 ",5,1,1,1,2,0,2,Tidak menerima bansos
-Tina Firmansya,3200441765690170,Semarang,Jawa Tengah,6/18/1957,68,Petani," Rp2,000,000 ",6,1,3,0,1,0,3,Tidak menerima bansos
-Cut Amalia Pangestu,3200003130018790,Sorong,Papua Barat,4/12/2000,25,Wiraswasta," Rp1,200,000 ",6,1,2,1,0,2,3,Tidak menerima bansos
-Cut Kamila Sitorus,3200350779476010,Manokwari,Papua Barat,3/25/1965,60,Buru," Rp1,000,000 ",7,0,2,2,2,0,4,menerima bansos
-Padmi Purnawati,3200442919759290,Semarang,Jawa Tengah,11/10/1963,61,Tidak Bekerja, Rp-   ,5,1,1,0,2,0,2,Tidak menerima bansos
-Puti Ella Pratiwi,3200241046721390,Palangka Raya,Kalimantan Tengah,5/30/1960,65,Karyawan," Rp1,200,000 ",4,1,0,1,1,1,2,Tidak menerima bansos
-Yance Zulaika,3200594820670990,Jayapura,Papua,6/5/1984,41,Tidak Bekerja, Rp-   ,2,0,1,0,0,1,1,Tidak menerima bansos
-Elu Lestari,3200381509462120,Yogyakarta,DI Yogyakarta,9/13/1978,46,Karyawan," Rp2,000,000 ",6,1,0,2,2,0,3,Tidak menerima bansos
-Tgkprasetya Prabowo,3200756580860640,Bjrmasin,Kalimantan Timur,4/11/1992,33,Buru," Rp1,500,000 ",7,1,2,2,2,0,4,menerima bansos
-Kardi Prasasta,3200185170183890,Padang,Sumatera Barat,1/7/1976,49,Wiraswasta," Rp1,500,000 ",10,1,3,2,1,2,5,menerima bansos
-Jasmani Sitompul,3200065206629950,Gorontalo,Gorontalo,11/17/1974,50,Tidak Bekerja, Rp-   ,5,0,3,2,0,0,3,Tidak menerima bansos
-Marwata Waluyo,3200075774082200,Manokwari,Papua Barat,12/16/1969,55,Petani," Rp500,000 ",4,0,2,1,0,0,1,Tidak menerima bansos
-Sadina Siregar,3200167135398650,Bogor,Kalimantan Timur,9/17/1959,65,Petani," Rp5,000,000 ",9,1,3,2,1,2,6,menerima bansos
-Wakiman Utagalung,3200000666445580,Samarinda,Kalimantan Timur,3/16/1968,57,Karyawan," Rp3,200,000 ",6,1,3,0,0,2,4,menerima bansos
-Artawan Tarioran,3200532301207650,Pekanbaru,Riau,4/19/1968,57,Petani," Rp1,200,000 ",7,1,2,2,2,0,4,menerima bansos
-Azalea Yolanda,3200003097189690,Gorontalo,Gorontalo,3/22/1961,64,Buru," Rp2,600,000 ",4,1,0,0,0,2,1,Tidak menerima bansos
-Esti Simbolon,3200685682776920,Bekasi,Kalimantan Timur,12/19/1983,41,Karyawan," Rp1,000,000 ",4,1,1,0,0,1,1,Tidak menerima bansos
-Setya Idayanto,3200285487350680,Malang,Jawa Timur,4/4/1991,34,Petani," Rp1,000,000 ",7,1,3,1,0,1,3,Tidak menerima bansos
-Titi Kurniawan,3200030544161120,Semarang,Jawa Tengah,2/2/1967,58,Karyawan," Rp1,000,000 ",4,0,1,1,0,1,1,Tidak menerima bansos
-Maya Budiyanto,3200284780467730,Palembang,Sumatera Selatan,4/29/1983,42,Petani," Rp500,000 ",7,1,2,1,2,0,3,Tidak menerima bansos
-Jane Jailani,3200766730459350,Bekasi,Kalimantan Timur,7/25/1962,62,Karyawan," Rp1,500,000 ",4,0,1,2,0,0,1,Tidak menerima bansos
-Endra Mansur,3200895101120610,Bpp,Kalimantan Timur,5/5/1964,61,Tidak Bekerja, Rp-   ,6,1,2,0,2,1,4,menerima bansos
-Mana Siregar,3200577996793230,Palangkaraya,Kalimantan Tengah,5/4/1972,53,Wiraswasta," Rp2,000,000 ",5,1,1,2,0,1,3,Tidak menerima bansos
-Rcaraka Tamrin,3200756769904960,Surabaya,Jawa Timur,9/11/1999,25,Karyawan," Rp2,000,000 ",6,1,1,1,1,1,3,Tidak menerima bansos
-Purwanto Waskita,3200502895226480,Surabaya,Jawa Timur,10/10/1998,26,Tidak Bekerja, Rp-   ,5,1,0,1,2,1,3,Tidak menerima bansos
-Agus Siregar,3200675397707610,Kendari,Sulawesi Tenggara,7/27/1974,50,Wiraswasta," Rp1,500,000 ",4,0,2,0,0,2,2,Tidak menerima bansos
-Almira Artati,3200094482350270,Yogyakarta,DI Yogyakarta,9/9/1966,58,Petani," Rp1,000,000 ",6,1,2,1,0,2,3,Tidak menerima bansos
-Nilam Suartini,3200657425511080,Makassar,Sulawesi Selatan,8/13/1965,59,Petani," Rp1,000,000 ",3,0,1,0,2,0,1,Tidak menerima bansos
-Marsudi Kuswandari,3200621382435890,Bekasi,Kalimantan Timur,1/19/1989,36,Tidak Bekerja, Rp-   ,8,0,2,2,2,2,5,menerima bansos
-Luwar Gunarto,3200733358814690,Pontianak,Kalimantan Barat,10/15/1987,37,Petani," Rp1,000,000 ",7,0,2,2,1,2,5,menerima bansos
-Maria Nasyida,3200327092123380,Yogyakarta,DI Yogyakarta,2/14/2000,25,Petani," Rp2,100,000 ",4,1,0,2,1,0,2,Tidak menerima bansos
-Gasti Prakasa,3200595327540620,Manokwari,Papua Barat,3/18/1984,41,Tidak Bekerja, Rp-   ,5,0,2,2,0,1,4,menerima bansos
-Krosman Wijaya,3200065053784190,Manado,Sulawesi Utara,8/23/1987,37,Karyawan," Rp500,000 ",6,1,2,0,2,0,3,Tidak menerima bansos
-Okto Uyaina,3200927543452010,Pontianak,Kalimantan Barat,4/20/1988,37,Wiraswasta," Rp500,000 ",9,1,3,2,0,2,4,menerima bansos
-Jabal Manullang,3200482302477460,Semarang,Jawa Tengah,3/29/1971,54,Petani," Rp500,000 ",8,1,2,2,2,0,4,menerima bansos
-Talia Maulana,3200452616475420,Bekasi,Kalimantan Timur,1/14/1957,68,Karyawan," Rp2,000,000 ",9,1,1,2,2,2,4,menerima bansos
-Bagas Usada,3200374556753470,Pontianak,Kalimantan Barat,4/28/1966,59,Tidak Bekerja, Rp-   ,4,1,1,2,0,0,1,Tidak menerima bansos
-Eka Prakasa,3200215666068270,Makassar,Sulawesi Selatan,12/28/1981,43,Wiraswasta," Rp500,000 ",4,1,0,1,1,0,1,Tidak menerima bansos
-Garda Prasetyo,3200158750624660,Palangka Raya,Kalimantan Tengah,2/25/1978,47,Tidak Bekerja, Rp-   ,5,1,2,0,0,2,3,Tidak menerima bansos
-Qori Sirait,3200308276424320,Banjarmasin,Kalimantan Selatan,4/27/1977,48,Petani," Rp500,000 ",6,1,2,2,0,0,3,Tidak menerima bansos
-Tirta Prasetyo,3200101517522120,Semarang,Jawa Tengah,8/25/1977,47,Karyawan," Rp1,500,000 ",4,0,2,1,0,1,2,Tidak menerima bansos
-Wawan Budiman,3200861866063890,Kendari,Sulawesi Tenggara,3/19/1986,39,Karyawan," Rp500,000 ",6,0,1,2,0,2,3,Tidak menerima bansos
-Ajiono Namaga,3200361833602060,Padang,Sumatera Barat,11/6/1997,27,Petani," Rp500,000 ",7,1,1,2,1,1,4,menerima bansos
-Aisya Marpaung,3200545766455620,Merauke,Papua Selatan,11/3/1974,50,Buru," Rp500,000 ",5,0,1,2,2,0,3,Tidak menerima bansos
-Damu Ramawati,3200945152794080,Bogor,Kalimantan Timur,3/26/1957,68,Buru," Rp2,800,000 ",6,1,3,1,1,0,3,Tidak menerima bansos
-Azalea Winarno,3200448636857580,Semarang,Jawa Tengah,12/7/1957,67,Petani," Rp1,500,000 ",7,1,1,1,2,1,3,Tidak menerima bansos
-Puji Namaga,3200174363499330,Pekanbaru,Riau,4/17/1995,30,Wiraswasta," Rp2,000,000 ",4,0,3,0,0,1,2,Tidak menerima bansos
-Purwa Waskita,3200174173760930,Bppn,Kalimantan Timur,10/9/1987,37,Buru," Rp500,000 ",2,1,0,0,0,0,0,Tidak menerima bansos
-Titi Mardiya,3200461320656000,Palangka Raya,Kalimantan Tengah,8/14/1974,50,Petani," Rp2,000,000 ",7,1,3,2,0,1,4,menerima bansos
-Jarwadi Usama,3200080519196340,Bandung,Jawa Barat,10/8/1971,53,Petani," Rp1,500,000 ",5,1,0,2,1,1,4,menerima bansos
-Ica Iswayudi,3200091094135720,Medan,Sumatera Utara,2/19/1970,55,Buru," Rp1,000,000 ",6,1,1,1,2,1,3,Tidak menerima bansos
-Victoria Winarsi,3200482962223970,Palembang,Sumatera Selatan,8/21/1985,39,Wiraswasta," Rp500,000 ",5,0,2,0,0,2,3,Tidak menerima bansos
-Jaiman Kuswandari,3200707662018490,Jambi,Jambi,2/13/1966,59,Petani," Rp2,000,000 ",3,0,0,0,2,0,1,Tidak menerima bansos
-Tania Puspita,3200533968407600,Merauke,Papua Selatan,3/30/1973,52,Tidak Bekerja, Rp-   ,5,0,3,1,0,0,2,Tidak menerima bansos
-Wisnu Firmansya,3200472317309060,Lampung,Lampung,10/13/1984,40,Karyawan," Rp1,200,000 ",8,0,3,2,1,1,5,menerima bansos
-Zalindra Kuswoyo,3200964566343960,Yogyakarta,DI Yogyakarta,11/29/1982,42,Karyawan," Rp4,200,000 ",9,0,3,2,2,1,6,menerima bansos
-Airyanto Siregar,3200544871317150,Semarang,Jawa Tengah,1/1/1977,48,Karyawan," Rp3,300,000 ",2,1,0,0,0,0,1,Tidak menerima bansos
-Dimaz Narpati,3200546949855990,Bengkulu,Kalimantan Timur,4/1/1999,26,Petani," Rp439,000 ",3,0,1,1,0,0,0,Tidak menerima bansos
-Najwa Saefulla,3200448831520540,Malang,Jawa Timur,3/2/1955,70,Petani," Rp1,500,000 ",5,1,0,0,2,1,3,Tidak menerima bansos
-Alika Marpaung,3200091489579720,Samarinda,Kalimantan Timur,11/4/1958,66,Wiraswasta," Rp500,000 ",6,0,3,0,0,2,3,Tidak menerima bansos
-Jarwa Aryanto,3200470128163000,Bekasi,Kalimantan Timur,2/8/1963,62,Karyawan," Rp1,000,000 ",5,0,3,0,0,2,3,Tidak menerima bansos
-Rkariman Alima,3200277727505030,Kendari,Sulawesi Tenggara,7/2/1993,32,Tidak Bekerja, Rp-   ,4,0,0,2,0,1,2,Tidak menerima bansos
-Treksa Wulandari,3200284987187260,Semarang,Jawa Tengah,7/13/1973,51,Tidak Bekerja, Rp-   ,5,0,2,0,1,1,4,menerima bansos
-Umi Suryono,3200186571417150,Pontianak,Kalimantan Barat,5/1/1972,53,Petani," Rp1,500,000 ",4,0,1,1,1,1,2,Tidak menerima bansos
-Talia Tamba,3200917615656190,Jayapura,Papua,11/8/1966,58,Karyawan," Rp2,000,000 ",3,0,0,1,0,1,1,Tidak menerima bansos
-Enteng Saragi,3200962714087690,Manado,Sulawesi Utara,12/16/1986,38,Buru," Rp1,500,000 ",2,0,0,0,1,0,1,Tidak menerima bansos
-Janet Lailasari,3200880842369690,Pekanbaru,Riau,7/14/1978,46,Wiraswasta," Rp500,000 ",5,0,1,1,1,1,3,Tidak menerima bansos
-Sutan Bakiono Dongoran,3200082851413170,Makassar,Sulawesi Selatan,1/23/1959,66,Karyawan," Rp1,500,000 ",7,0,2,2,2,1,5,menerima bansos
-Tantri Saefulla,3200493144256510,Pontianak,Kalimantan Barat,11/10/1987,37,Karyawan," Rp2,000,000 ",1,1,0,0,0,0,0,Tidak menerima bansos
-Setya Kuswandari,3200888309185590,Lampung,Lampung,4/2/1995,30,Karyawan," Rp1,500,000 ",6,0,1,0,2,2,3,Tidak menerima bansos
-Karma Padmasari,3200826613866870,Medan,Sumatera Utara,5/18/1960,65,Wiraswasta," Rp1,500,000 ",6,0,2,0,1,2,4,menerima bansos
-Lukita Situmorang,3200282491026930,Palangkaraya,Kalimantan Tengah,3/30/1995,30,Petani," Rp500,000 ",3,0,0,2,0,0,1,Tidak menerima bansos
-Edi Wacana,3200496410429200,Medan,Sumatera Utara,6/4/1979,46,Tidak Bekerja, Rp-   ,6,1,3,0,0,1,3,Tidak menerima bansos
-Silvia Megantara,3200296986519790,Palembang,Sumatera Selatan,8/5/1978,46,Petani," Rp2,000,000 ",6,1,1,0,2,1,3,Tidak menerima bansos
-Maimuna Wulandari,3200175604178240,Padang,Sumatera Barat,8/30/1995,29,Tidak Bekerja, Rp-   ,3,1,0,0,1,0,1,Tidak menerima bansos
-Banawi Maulana,3200831442045250,Manokwari,Papua Barat,6/12/1978,47,Buru," Rp2,000,000 ",4,1,2,0,0,1,2,Tidak menerima bansos
-Cager Winarno,3200969698106590,Depok,Jawa Barat,6/9/1987,38,Wiraswasta," Rp1,500,000 ",7,0,2,2,2,0,4,menerima bansos
-Opung Andriani,3200476469903640,Semarang,Jawa Tengah,1/3/1993,32,Petani," Rp500,000 ",6,0,2,2,2,0,4,menerima bansos
-Gaiman Oktaviani,3200229359001850,Lampung,Lampung,11/15/1991,33,Karyawan," Rp1,500,000 ",5,1,1,1,1,1,3,Tidak menerima bansos
-Kempluk Siombing,3200034030599400,Bengkulu,Kalimantan Timur,9/11/1959,65,Karyawan," Rp2,000,000 ",4,1,2,0,1,0,2,Tidak menerima bansos
-Martana Dabukke,3200482194295000,Merauke,Papua Selatan,9/26/1977,47,Buru," Rp1,000,000 ",5,1,0,2,2,0,3,Tidak menerima bansos
-Daru Nasiruddin,3200596316329490,Bengkulu,Kalimantan Timur,3/12/1963,62,Buru," Rp2,000,000 ",5,0,3,0,1,1,4,menerima bansos
-Wira Nugroo,3200076636911440,Semarang,Jawa Tengah,1/24/1980,45,Karyawan," Rp500,000 ",7,0,2,2,2,0,4,menerima bansos
-Gabriella Astuti,3200682637782110,Yogyakarta,DI Yogyakarta,3/17/1977,48,Tidak Bekerja, Rp-   ,11,1,3,2,2,2,5,menerima bansos
-Gali Megantara,3200196527068630,Merauke,Papua Selatan,12/27/1980,44,Buru," Rp1,000,000 ",9,1,3,1,2,1,4,menerima bansos
-Janet Zulkarnain,3200096303331090,Bengkulu,Kalimantan Timur,12/30/1980,44,Petani," Rp1,500,000 ",8,1,0,2,2,2,4,menerima bansos
-Jarwi Wastuti,3200554705705240,Bekasi,Kalimantan Timur,6/24/1959,66,Wiraswasta," Rp1,500,000 ",2,0,0,0,2,0,1,Tidak menerima bansos
-Genta Aryani,3200189360262380,Palangka Raya,Kalimantan Tengah,7/6/1990,34,Wiraswasta," Rp1,500,000 ",6,1,0,2,1,2,4,menerima bansos
-Puti Tina Puspita,3200924653729460,Pekanbaru,Riau,4/19/1964,61,Karyawan," Rp500,000 ",5,0,2,1,1,0,3,Tidak menerima bansos
-Restu Nuraini,3200007907086800,Palangka raya,Kalimantan Tengah,7/27/1996,28,Karyawan," Rp2,000,000 ",5,0,2,0,0,2,3,Tidak menerima bansos
-Cayadi Winarsi,3200555102721760,Balikppn,Kalimantan Timur,3/9/1969,56,Karyawan," Rp500,000 ",8,0,2,2,1,2,5,menerima bansos
-Lukman Permata,3200570081745620,Merauke,Papua Selatan,9/3/2000,24,Petani," Rp1,200,000 ",6,0,3,1,0,1,3,Tidak menerima bansos
-Zulfa Firmansya,3200899272062570,Malang,Jawa Timur,6/7/1980,45,Wiraswasta," Rp1,500,000 ",6,1,0,1,2,2,3,Tidak menerima bansos
-Lidya Maryadi,3200871869141570,Sorong,Papua Barat,7/6/1970,54,Buru," Rp1,000,000 ",7,0,3,2,1,1,5,menerima bansos
-Dariati Maendra,3200931098865070,Samarinda,Kalimantan Timur,12/6/1987,37,Karyawan," Rp1,500,000 ",5,0,3,0,0,2,3,Tidak menerima bansos
-Ilda Waluyo,3200221095443710,Lampung,Lampung,5/19/1984,41,Wiraswasta," Rp2,000,000 ",3,0,2,0,0,0,1,Tidak menerima bansos
-Silvia Nainggolan,3200225700089520,Semarang,Jawa Tengah,2/11/1989,36,Tidak Bekerja, Rp-   ,6,0,3,1,1,0,3,Tidak menerima bansos
-Jelita Utapea,3200196125337010,Pekanbaru,Riau,1/21/1999,26,Petani," Rp2,000,000 ",8,0,3,1,2,2,4,menerima bansos
-Belinda Wibisono.,3200846674461560,Gorontalo,Gorontalo,10/10/1971,53,Karyawan," Rp2,000,000 ",6,0,3,2,0,1,4,menerima bansos
-Bagus Wibisono,3200722196564430,Palu,Sulawesi Tengah,3/18/1970,55,Tidak Bekerja, Rp-   ,6,1,0,2,0,2,3,Tidak menerima bansos
-Galar Usada,3200426309108210,Jambi,Jambi,6/1/1971,54,Petani," Rp1,000,000 ",8,0,2,2,2,2,5,menerima bansos
-Kemal Tarioran,3200880788218010,Palembang,Sumatera Selatan,8/15/1989,35,Petani," Rp1,500,000 ",2,0,0,0,1,0,1,Tidak menerima bansos
-Micelle Utapea,3200319973825540,Samarinda,Kalimantan Timur,12/9/1974,50,Karyawan," Rp2,000,000 ",6,1,2,1,1,1,4,menerima bansos
-Bala Firmansya,3200510187576350,Malang,Jawa Timur,8/9/1963,61,Petani," Rp500,000 ",5,0,2,0,2,1,4,menerima bansos
-Kacung Irawan,3200116986658400,Jambi,Jambi,2/22/1990,35,Karyawan," Rp1,000,000 ",5,0,1,2,1,1,4,menerima bansos
-Usyi Assana,3200329463303010,Makassar,Sulawesi Selatan,6/19/1998,27,Petani," Rp2,000,000 ",4,1,2,1,0,0,1,Tidak menerima bansos
-Yuliana Nainggolan,3200028388531920,Palu,Sulawesi Tengah,11/17/1984,40,Tidak Bekerja, Rp-   ,4,0,1,1,2,0,1,Tidak menerima bansos
-Maimuna Sitompul,3200612849286400,Pekanbaru,Riau,4/17/1979,46,Buru," Rp1,500,000 ",8,1,2,2,1,2,5,menerima bansos
-Balijan Samosir,3200070705117200,Pontianak,Kalimantan Barat,9/16/1970,54,Karyawan," Rp500,000 ",6,1,2,1,1,0,3,Tidak menerima bansos
-Aisya Irawan,3200590650088510,Depok,Jawa Barat,7/23/1983,41,Wiraswasta," Rp1,000,000 ",2,0,1,0,0,1,1,Tidak menerima bansos
-Anom Uwais,3200024247634470,Makassar,Sulawesi Selatan,12/5/1991,33,Karyawan," Rp500,000 ",6,0,2,1,1,1,4,menerima bansos
-Jane Ardianto,3200088718699860,Padang,Sumatera Barat,3/21/1990,35,Karyawan," Rp1,000,000 ",6,0,3,2,0,0,3,Tidak menerima bansos
-Galar Mansur,3200472970625510,Pekanbaru,Riau,2/21/1979,46,Buru," Rp1,500,000 ",4,0,1,0,1,1,2,Tidak menerima bansos
-Puput Rajasa,3200173472918680,Malang,Jawa Timur,4/28/1998,27,Wiraswasta," Rp1,000,000 ",5,0,0,2,0,2,3,Tidak menerima bansos
-Ana Laksmiwati,3200032204229500,Pontianak,Kalimantan Barat,6/5/1970,55,Petani," Rp2,000,000 ",6,1,1,0,2,1,3,Tidak menerima bansos
-Garda Simbolon,3200483277009130,Palu,Sulawesi Tengah,4/2/1981,44,Buru," Rp1,000,000 ",4,0,2,2,0,0,2,Tidak menerima bansos
-Zulaika Aryanto.,3200587637551430,Bogor,Kalimantan Timur,6/3/1973,52,Petani," Rp1,000,000 ",5,0,0,2,0,2,3,Tidak menerima bansos
-Luwar Yolanda.,3200539443782450,Lampung,Lampung,6/16/1991,34,Karyawan," Rp2,000,000 ",4,1,2,0,0,1,2,Tidak menerima bansos
-Puti Gasti Sitorus,3200792805178610,Merauke,Papua Selatan,4/29/1982,43,Karyawan," Rp1,500,000 ",5,1,0,1,2,0,2,Tidak menerima bansos
-Baktiono Tamrin,3200006704917870,Jayapura,Papua,9/12/1969,55,Karyawan," Rp2,000,000 ",6,1,3,0,0,1,3,Tidak menerima bansos
-Kambali Mayasari,3200237104555230,Bekasi,Kalimantan Timur,8/11/1970,54,Karyawan," Rp1,500,000 ",7,1,2,2,1,1,5,menerima bansos
-Danu Winarno,3200773918368040,Bekasi,Kalimantan Timur,7/13/1979,45,Petani," Rp2,000,000 ",4,1,0,0,2,1,2,Tidak menerima bansos
-Tina Siombing,3200919202484560,Manado,Sulawesi Utara,11/17/1981,43,Tidak Bekerja, Rp-   ,4,0,1,2,1,0,2,Tidak menerima bansos
-Asirwada Kuswoyo,3200853451348900,Padang,Sumatera Barat,10/16/1975,49,Tidak Bekerja, Rp-   ,7,0,3,0,2,2,4,menerima bansos
-Racel Setiawan,3200826512206020,Banjarmasin,Kalimantan Selatan,1/23/1975,50,Petani," Rp1,500,000 ",8,0,3,2,1,2,5,menerima bansos
-Nurul Wibowo,3200561907132560,Semarang,Jawa Tengah,8/15/1965,59,Tidak Bekerja, Rp-   ,6,1,3,0,1,1,4,menerima bansos
-Nadine Idayanto,3200289513127240,Manado,Sulawesi Utara,1/22/1988,37,Tidak Bekerja, Rp-   ,7,1,3,2,1,0,4,menerima bansos
-Tami Marpaung,3200426211477060,Malang,Jawa Timur,11/29/1991,33,Buru," Rp1,000,000 ",5,0,2,2,0,1,4,menerima bansos
-Betania Widiastuti,3200427796917930,Banjarmasin,Kalimantan Selatan,1/13/1992,33,Wiraswasta," Rp1,500,000 ",5,0,0,2,0,2,3,Tidak menerima bansos
-Sutan Danuja Nasiruddin,3200278610280940,Medan,Sumatera Utara,4/27/1976,49,Tidak Bekerja, Rp-   ,7,0,3,1,1,2,4,menerima bansos
-Empluk Gunarto,3200119269104730,Palu,Sulawesi Tengah,7/2/1990,35,Tidak Bekerja, Rp-   ,4,1,2,0,1,0,2,Tidak menerima bansos
-Tasdik Narpati,3200489152850090,Kendari,Sulawesi Tenggara,2/23/1979,46,Wiraswasta," Rp1,500,000 ",3,0,0,1,1,1,2,Tidak menerima bansos
-Vino Sitorus,3200419330892710,Malang,Jawa Timur,1/9/1987,38,Karyawan," Rp1,000,000 ",7,1,2,0,2,1,4,menerima bansos
-Jabal Marbun,3200017037246120,Manokwari,Papua Barat,6/22/1997,28,Petani," Rp1,500,000 ",5,1,0,2,1,0,3,Tidak menerima bansos
-Jelita Mandasari,3200532804035390,Malang,Jawa Timur,6/15/1974,51,Karyawan," Rp2,000,000 ",2,1,1,0,0,0,0,Tidak menerima bansos
-Rati Tamrin,3200254380987220,Balikpapan,Kalimantan Timur,11/27/1955,69,Buru," Rp1,500,000 ",6,1,2,0,1,2,4,menerima bansos
-Siska Winarsi,3200152147081270,Jayapura,Papua,11/16/1982,42,Wiraswasta," Rp2,000,000 ",4,0,0,2,1,1,3,Tidak menerima bansos
-Nova Kusumo.,3200549774594000,Balikpapan,Kalimantan Timur,7/24/1981,43,Petani," Rp1,000,000 ",7,0,2,2,0,2,4,menerima bansos
-Kajen Widodo,3200670472720520,Medan,Sumatera Utara,9/3/1974,50,Karyawan," Rp500,000 ",4,1,0,1,1,0,1,Tidak menerima bansos
-Teddy Firgantoro,3200174541933290,Jambi,Jambi,2/26/1983,42,Tidak Bekerja, Rp-   ,5,0,0,2,1,2,4,menerima bansos
-Galar Puspasari,3200703580132720,Bengkulu,Kalimantan Timur,12/16/1997,27,Wiraswasta," Rp2,000,000 ",6,0,3,1,0,2,3,Tidak menerima bansos
-Rmila Budiman,3200361311719100,Bandung,Jawa Barat,2/17/1977,48,Wiraswasta," Rp1,500,000 ",8,1,2,2,1,1,5,menerima bansos
-Intan Simanjuntak,3200381045595980,Padang,Sumatera Barat,11/29/1995,29,Karyawan," Rp500,000 ",7,0,2,2,2,0,4,menerima bansos
-Agnes Yuniar,3200971029855010,Pontianak,Kalimantan Barat,7/18/1984,40,Tidak Bekerja, Rp-   ,5,1,0,2,2,0,3,Tidak menerima bansos
-Vera Marpaung,3200630986338190,Bogor,Kalimantan Timur,3/2/1987,38,Wiraswasta," Rp1,000,000 ",6,1,0,0,2,2,3,Tidak menerima bansos
-Zalindra Laksmiwati,3200260825716250,Samarinda,Kalimantan Timur,3/25/1970,55,Buruh," Rp1,000,000 ",3,0,0,0,1,1,2,Tidak menerima bansos
-Janet Salaudin,3200739762458910,Lampung,Lampung,7/22/1956,68,Wiraswasta," Rp1,500,000 ",8,0,2,1,2,2,4,menerima bansos
-Limar Sinaga,3200694825518200,Jambi,Jambi,1/16/1963,62,Karyawan," Rp2,000,000 ",5,1,1,1,1,0,2,Tidak menerima bansos
-Irfan Sudiati,3200379506262920,Palembang,Sumatera Selatan,9/19/1978,46,Wiraswasta," Rp2,000,000 ",9,1,3,2,0,2,4,menerima bansos
-Bakiman Idayat,3200478656445560,Pekanbaru,Riau,8/10/1988,36,Petani," Rp2,000,000 ",7,1,3,2,0,1,4,menerima bansos
-Nilam Ardiansya,3200897460171450,Malang,Jawa Timur,8/7/1980,44,Buru," Rp1,500,000 ",5,1,0,2,1,1,4,menerima bansos
-Lalita Firmansya,3200150054786440,Manokwari,Papua Barat,6/27/1974,51,Buru," Rp2,000,000 ",9,0,2,2,2,2,5,menerima bansos
-Marwata Narpati,3200052041951510,Pekanbaru,Riau,6/20/1955,70,Karyawan," Rp500,000 ",3,1,0,0,1,1,2,Tidak menerima bansos
-Taufan Wacana,3200322124472600,Malang,Jawa Timur,10/10/1972,52,Petani," Rp1,000,000 ",5,0,2,1,0,1,3,Tidak menerima bansos
-Tina Melani,3200336189923660,Surabaya,Jawa Timur,12/18/1984,40,Petani," Rp2,000,000 ",5,1,3,0,0,1,3,Tidak menerima bansos
-Zizi Anggraini,3200260614516870,Banjarmasin,Kalimantan Selatan,8/8/1998,26,Buru," Rp2,000,000 ",7,1,3,2,0,1,4,menerima bansos
-Jono Nasyia,3200186740818590,Gorontalo,Gorontalo,1/13/1965,60,Buru," Rp1,000,000 ",5,1,3,0,0,1,3,Tidak menerima bansos
-Gani Kusumo,3200180150858310,Bogor,Kalimantan Timur,6/25/1986,39,Karyawan," Rp2,000,000 ",8,1,3,1,2,1,4,menerima bansos
-Dia Natsir,3200851981760060,Gorontalo,Gorontalo,12/19/1975,49,Tidak Bekerja, Rp-   ,5,1,1,1,0,2,2,Tidak menerima bansos
-Klukman Siotang,3200469615866970,Jambi,Jambi,4/19/1963,62,Wiraswasta," Rp500,000 ",6,1,1,2,2,0,3,Tidak menerima bansos
-Ida Firgantoro,3200766978427740,Palu,Sulawesi Tengah,1/26/1978,47,Karyawan," Rp2,000,000 ",6,0,1,0,2,2,3,Tidak menerima bansos
-Jasmin Gunawan,3200855573672850,Surabaya,Jawa Timur,6/14/1992,33,Karyawan," Rp1,500,000 ",8,1,3,2,1,0,4,menerima bansos
-Jarwi Permadi,3200015902804790,Surabaya,Jawa Timur,1/4/1961,64,Petani," Rp1,500,000 ",8,1,2,1,2,1,4,menerima bansos
-Elvina Nurdiyanti,3200564451444210,Medan,Sumatera Utara,7/1/1964,61,Petani," Rp2,000,000 ",7,0,3,0,1,2,4,menerima bansos
-Gabriella Marpaung,3200520650746720,Balikpapan,Kalimantan Timur,4/28/1955,70,Buru," Rp2,000,000 ",6,0,3,0,0,2,3,Tidak menerima bansos
-Tgkirsad Mansur,3200074916106610,Palembang,Sumatera Selatan,5/30/1956,69,Tidak Bekerja, Rp-   ,6,0,3,2,0,0,3,Tidak menerima bansos
-Puput Nasiruddin,3200473998606910,Bogor,Kalimantan Timur,8/4/1961,63,Buru," Rp1,500,000 ",3,0,0,1,0,2,1,Tidak menerima bansos
-Karima Tamrin,3200737720972140,Kendari,Sulawesi Tenggara,5/12/1986,39,Buru," Rp1,000,000 ",6,0,3,0,2,1,4,menerima bansos
-Padmi Santoso,3200650188597330,Bogor,Kalimantan Timur,6/5/1992,33,Tidak Bekerja, Rp-   ,4,0,2,1,1,0,2,Tidak menerima bansos
-Fara Ardiansya,3200260195677020,Pontianak,Kalimantan Barat,8/7/1963,61,Buru," Rp500,000 ",2,0,1,0,0,0,0,Tidak menerima bansos
-Lalita Wayudin,3200682763689640,Jambi,Jambi,4/8/1987,38,Karyawan," Rp1,500,000 ",6,0,3,2,1,0,4,menerima bansos
-Karima Budiman,3200107477933560,Bpp,Kalimantan Timur,7/7/1972,52,Wiraswasta," Rp1,500,000 ",5,0,1,2,1,1,4,menerima bansos
-Luung Andriani,3200713845851050,Banjarmasin,Kalimantan Selatan,6/6/1984,41,Wiraswasta," Rp1,000,000 ",4,0,0,2,1,1,3,Tidak menerima bansos
-Yoga Kusumo,3200987898278370,Pekanbaru,Riau,8/13/1957,67,Tidak Bekerja, Rp-   ,6,0,3,1,1,1,4,menerima bansos
-Paris Artati,3200575324898330,Kendari,Sulawesi Tenggara,10/9/1963,61,Wiraswasta," Rp2,000,000 ",5,1,0,2,2,0,3,Tidak menerima bansos
-Kamila Sudiati,3200582691934250,Manokwari,Papua Barat,8/8/1977,47,Buru," Rp1,500,000 ",0,0,0,0,0,0,0,Tidak menerima bansos
-Janet Safitri,3200470167998140,Gorontalo,Gorontalo,2/19/1995,30,Karyawan," Rp1,000,000 ",5,1,2,0,2,0,3,Tidak menerima bansos
-Tgkpurwanto Siombing,3200773037512880,Semarang,Jawa Tengah,12/17/1974,50,Petani," Rp1,000,000 ",3,1,1,0,1,0,1,Tidak menerima bansos
-Capa Abibi,3200417902724810,Gorontalo,Gorontalo,9/13/1985,39,Wiraswasta," Rp2,000,000 ",3,0,0,2,0,1,2,Tidak menerima bansos
-Sara Maulana,3200262923115320,Palu,Sulawesi Tengah,2/16/1986,39,Buru," Rp500,000 ",2,0,0,0,1,0,1,Tidak menerima bansos
-Puti Mala Suwarno,3200895129145420,Jambi,Jambi,1/22/1974,51,Karyawan," Rp2,000,000 ",3,0,1,1,1,0,1,Tidak menerima bansos
-Jamalia Mandasari,3200064884362910,Medan,Sumatera Utara,12/24/1984,40,Petani," Rp500,000 ",7,1,2,0,2,1,4,menerima bansos
-Ari Raayu,3200982270405940,Jambi,Jambi,3/25/1989,36,Wiraswasta," Rp500,000 ",8,1,3,1,2,1,4,menerima bansos
-Nilam Pradipta,3200520527207800,Bogor,Kalimantan Timur,11/12/1959,65,Tidak Bekerja, Rp-   ,9,1,2,2,2,1,5,menerima bansos
-Aswani Prastuti,3200863121701410,Palangkaraya,Kalimantan Tengah,4/17/1979,46,Tidak Bekerja, Rp-   ,3,0,1,0,1,1,2,Tidak menerima bansos
-Aslijan Waluyo.,3200670222932090,Manokwari,Papua Barat,6/10/1968,57,Karyawan," Rp500,000 ",2,0,1,0,0,0,0,Tidak menerima bansos
-Elma Nainggolan,3200478216174340,Semarang,Jawa Tengah,2/3/1967,58,Karyawan," Rp1,000,000 ",3,0,0,1,1,1,2,Tidak menerima bansos
-Bajragin Tamba,3200257033557350,Yogyakarta,DI Yogyakarta,5/5/1967,58,Petani," Rp2,000,000 ",6,1,1,1,2,1,3,Tidak menerima bansos
-Jamil Rajata,3200394891744580,Manado,Sulawesi Utara,6/13/1963,62,Petani," Rp1,500,000 ",6,0,2,0,2,2,4,menerima bansos
-Putri Wastuti,3200741431390110,Gorontalo,Gorontalo,6/29/1979,46,Petani," Rp1,500,000 ",4,0,1,2,0,0,1,Tidak menerima bansos
-Tgkpia Kuswoyo,3200739870683970,Bogor,Kalimantan Timur,9/11/1991,33,Buru," Rp1,000,000 ",5,0,1,2,2,0,3,Tidak menerima bansos
-Yoga Maeswara,3200038150770970,Lampung,Lampung,3/7/1960,65,Tidak Bekerja, Rp-   ,5,1,1,1,1,1,3,Tidak menerima bansos
-Cut Ica Irawan,3200097125811310,Yogyakarta,DI Yogyakarta,12/10/1963,61,Tidak Bekerja, Rp-   ,3,0,2,0,0,0,1,Tidak menerima bansos
-Talia Winarsi,3200202925864700,Yogyakarta,DI Yogyakarta,6/25/1962,63,Petani," Rp1,000,000 ",10,1,3,2,2,2,5,menerima bansos
-Cakrajiya Nasiruddin,3200569158260460,Malang,Jawa Timur,10/5/1980,44,Petani," Rp1,000,000 ",7,0,2,2,1,2,5,menerima bansos
-Rafi Januar,3200107233294910,Merauke,Papua Selatan,1/19/1993,32,Petani," Rp500,000 ",7,1,2,2,2,0,4,menerima bansos
-Jarwi Saputra,3200739724553780,Bogor,Kalimantan Timur,9/27/1978,46,Buru," Rp1,500,000 ",8,0,3,1,1,2,4,menerima bansos
-Bakidin Nugroo,3200737248727640,Malang,Jawa Timur,2/11/1999,26,Tidak Bekerja, Rp-   ,6,1,0,2,1,2,4,menerima bansos
-Jaswadi Siregar,3200210429451010,Gorontalo,Gorontalo,10/4/1977,47,Petani," Rp500,000 ",7,1,2,1,0,2,3,Tidak menerima bansos
-Jayadi Laksita,3200523179261020,Pontianak,Kalimantan Barat,3/13/1996,29,Tidak Bekerja, Rp-   ,8,1,2,1,2,1,4,menerima bansos
-Uli Yulianti,3200899361198340,Bengkulu,Kalimantan Timur,4/29/1966,59,Buru," Rp1,500,000 ",5,0,0,1,2,1,3,Tidak menerima bansos
-Kalim Najmudin,3200341431864950,Jayapura,Papua,3/23/1959,66,Wiraswasta," Rp2,000,000 ",4,0,1,2,1,0,2,Tidak menerima bansos
-Tgkgina Anggriawan,3200098997153950,Gorontalo,Gorontalo,5/23/1985,40,Petani," Rp2,000,000 ",7,1,2,1,0,2,3,Tidak menerima bansos
-Samia Raayu,3200413026238170,Bandung,Jawa Barat,4/14/1999,26,Tidak Bekerja, Rp-   ,7,0,3,1,2,1,4,menerima bansos
-Gadu Yuliarti,3200067379719510,Samarinda,Kalimantan Timur,4/17/1986,39,Karyawan," Rp1,500,000 ",5,0,0,2,1,1,4,menerima bansos
-Zamira Marbun,3200053243220050,Manokwari,Papua Barat,12/13/1966,58,Tidak Bekerja, Rp-   ,3,1,0,0,0,1,1,Tidak menerima bansos
-Sutan Gamanto Suartini,3200168363172450,Jambi,Jambi,6/11/1969,56,Karyawan," Rp2,000,000 ",8,0,3,1,2,2,4,menerima bansos
-Madinata Susanti,3200365875939860,Palembang,Sumatera Selatan,10/8/1996,28,Wiraswasta," Rp2,000,000 ",5,0,2,2,1,0,4,menerima bansos
-Cici Zulkarnain,3200944132465570,Balikpapan,Kalimantan Timur,8/20/1971,53,Petani," Rp2,000,000 ",3,1,0,0,2,0,1,Tidak menerima bansos
-Eko Siotang,3200973671740810,Semarang,Jawa Tengah,9/14/1996,28,Tidak Bekerja, Rp-   ,9,1,3,2,2,1,5,menerima bansos
-Ciaobella Mardiya,3200791679978560,Palembang,Sumatera Selatan,3/14/1962,63,Buru," Rp500,000 ",6,1,3,0,1,0,3,Tidak menerima bansos
-Vivi Siregar,3200994511397830,Palu,Sulawesi Tengah,11/8/1971,53,Petani," Rp1,500,000 ",8,1,2,1,1,2,4,menerima bansos
-Suci Mustofa,3200642422562250,Bogor,Kalimantan Timur,4/15/1964,61,Buru," Rp1,000,000 ",5,0,1,1,1,2,3,Tidak menerima bansos
-Gasti Kusmawati,3200178062096770,Bandung,Jawa Barat,5/23/1972,53,Karyawan," Rp2,000,000 ",7,0,1,1,2,2,3,Tidak menerima bansos
-Kayun Situmorang,3200491544973130,Pekanbaru,Riau,2/3/1962,63,Petani," Rp500,000 ",3,1,1,0,0,1,1,Tidak menerima bansos
-Dinda Salaudin,3200802033657350,Jayapura,Papua,2/18/1993,32,Petani," Rp500,000 ",6,1,0,0,2,2,3,Tidak menerima bansos
-Karja Kuswoyo,3200495016607320,Pekanbaru,Riau,4/7/1976,49,Buru," Rp2,000,000 ",4,1,1,0,1,0,1,Tidak menerima bansos
-Tami Wibowo,3200850516406220,Palembang,Sumatera Selatan,7/5/1969,55,Karyawan," Rp1,000,000 ",7,1,3,0,0,2,3,Tidak menerima bansos
-Rusman Putra,3200757712781980,Bandung,Jawa Barat,9/2/1991,33,Karyawan," Rp1,500,000 ",3,1,2,0,0,0,1,Tidak menerima bansos
-Janet Uwais,3200751373912780,Bandung,Jawa Barat,5/30/1999,26,Karyawan," Rp2,000,000 ",8,0,2,2,2,2,5,menerima bansos
-Kasirwanda Lestari,3200613137513210,Yogyakarta,DI Yogyakarta,7/9/1970,54,Buruh," Rp1,000,000 ",7,0,3,1,2,1,4,menerima bansos
-Cakrawala Waskita,3200493147324160,Samarinda,Kalimantan Timur,6/15/1984,41,Buruh," Rp1,500,000 ",6,1,3,2,0,0,3,Tidak menerima bansos
-Janet Aryanto,3200698083127310,Jayapura,Papua,9/15/1993,31,Petani," Rp1,500,000 ",9,1,3,1,2,1,4,menerima bansos
-Tari Puspita,3200345051297600,Banjarmasin,Kalimantan Selatan,1/11/1994,31,Wiraswasta," Rp1,000,000 ",5,1,0,2,2,0,3,Tidak menerima bansos
-Nilam Damanik,3200119036894770,Manado,Sulawesi Utara,8/18/1968,56,Buruh," Rp1,000,000 ",6,1,2,2,1,0,4,menerima bansos
-Ade Wacana,3200381519969450,Medan,Sumatera Utara,2/10/1974,51,Petani," Rp2,000,000 ",9,1,3,2,1,2,5,menerima bansos
-Ellis Manullang,3200973850957850,Sorong,Papua Barat,9/17/1980,44,Wiraswasta," Rp1,000,000 ",2,0,0,0,0,2,1,Tidak menerima bansos
-Safina Salaudin,3200007421444770,Pekanbaru,Riau,3/27/1982,43,Wiraswasta," Rp1,500,000 ",5,1,0,2,0,2,3,Tidak menerima bansos
-Tami Suryono,3200234926625870,Malang,Jawa Timur,11/12/1955,69,Wiraswasta," Rp2,000,000 ",8,1,2,1,1,2,4,menerima bansos
-Ardi Agustina,3200507923970840,Kendari,Sulawesi Tenggara,3/18/1987,38,Karyawan," Rp1,500,000 ",3,0,0,1,1,0,1,Tidak menerima bansos
-Julia Lailasari,3200810730290390,Lampung,Lampung,5/30/1962,63,Tidak Bekerja, Rp-   ,7,0,2,1,2,1,4,menerima bansos
-Keisa Sinaga,3200400790974320,Medan,Sumatera Utara,1/4/1993,32,Wiraswasta," Rp2,000,000 ",9,1,3,2,2,0,4,menerima bansos
-Lanjar Andayani,3200296436845600,Balikpapn,Kalimantan Timur,3/27/1972,53,Tidak Bekerja, Rp-   ,3,1,0,0,2,0,1,Tidak menerima bansos
-Puti Puspa Nasiruddin,3200714859142130,Samarinda,Kalimantan Timur,4/3/1996,29,Karyawan," Rp500,000 ",4,0,0,0,2,1,2,Tidak menerima bansos
-Damar Marbun,3200256620610250,Yogyakarta,DI Yogyakarta,4/25/1995,30,Petani," Rp2,000,000 ",4,0,1,0,1,1,2,Tidak menerima bansos
-Sutan Viktor Simanjuntak,3200104490195780,Yogyakarta,DI Yogyakarta,7/9/1957,67,Tidak Bekerja, Rp-   ,5,1,0,1,0,2,2,Tidak menerima bansos
-Tgkcinta Anggriawan,3200295484260780,Pontianak,Kalimantan Barat,4/5/1957,68,Petani," Rp2,000,000 ",0,0,0,0,0,0,0,Tidak menerima bansos
-Fara Siombing,3200284225136590,Pekanbaru,Riau,8/8/1956,68,Karyawan," Rp1,000,000 ",9,1,2,1,2,2,4,menerima bansos
-Ratna Widodo,3200089816483920,Kendari,Sulawesi Tenggara,6/30/1964,61,Tidak Bekerja, Rp-   ,5,0,3,0,0,2,3,Tidak menerima bansos
-Mujur Astuti,3200842883567330,Balikpapan,Kalimantan Timur,6/24/2000,25,Wiraswasta," Rp1,500,000 ",6,0,3,0,1,1,4,menerima bansos
-Melinda Siombing,3200267372711740,Bengkulu,Kalimantan Timur,12/17/1975,49,Wiraswasta," Rp500,000 ",6,1,1,2,1,1,4,menerima bansos
-Qori Gunarto,3200927453309280,Jayapura,Papua,2/13/1994,31,Tidak Bekerja, Rp-   ,1,0,1,0,0,0,0,Tidak menerima bansos
-Paiman Anggriawan,3200840546164300,Lampung,Lampung,11/8/1999,25,Petani," Rp1,500,000 ",5,1,0,1,0,2,2,Tidak menerima bansos
-Eka Sitorus,3200349031012270,Padang,Sumatera Barat,7/12/1973,51,Wiraswasta," Rp500,000 ",7,1,1,1,2,2,3,Tidak menerima bansos
-Yusuf Simanjuntak,3200710612690230,Jayapura,Papua,9/11/1973,51,Tidak Bekerja, Rp-   ,6,1,2,1,0,2,3,Tidak menerima bansos
-Rrini Mayasari,3200294377331870,Makassar,Sulawesi Selatan,12/17/1962,62,Petani," Rp1,500,000 ",5,1,3,0,1,0,3,Tidak menerima bansos
-Kasim Widodo,3200590551696850,Manado,Sulawesi Utara,7/23/1967,57,Karyawan," Rp2,000,000 ",10,1,3,1,2,2,4,menerima bansos
-Cut Gina Putra,3200937953983100,Manokwari,Papua Barat,4/16/1968,57,Karyawan," Rp1,500,000 ",4,0,2,2,0,0,2,Tidak menerima bansos
-Sabrina Adriansya,3200809294557560,Pekanbaru,Riau,9/30/1991,33,Tidak Bekerja, Rp-   ,9,0,3,1,2,2,4,menerima bansos
-Kprayoga Tampubolon,3200927772064980,Jayapura,Papua,2/11/1957,68,Tidak Bekerja, Rp-   ,6,0,3,2,0,1,4,menerima bansos
-Irfan Waskita,3200167366321500,Bogor,Kalimantan Timur,5/4/2000,25,Karyawan," Rp2,000,000 ",6,1,2,2,1,0,4,menerima bansos
-Darmana Pangestu,3200382812316560,Pekanbaru,Riau,10/1/1997,27,Wiraswasta," Rp2,000,000 ",5,0,1,1,2,1,3,Tidak menerima bansos
-Silvia Nurdiyanti,3200065638339830,Yogyakarta,DI Yogyakarta,3/21/1956,69,Karyawan," Rp2,000,000 ",2,0,1,0,0,1,1,Tidak menerima bansos
-Puspa Siotang,3200905940895430,Palembang,Sumatera Selatan,4/12/1963,62,Karyawan," Rp1,000,000 ",4,1,0,0,0,2,1,Tidak menerima bansos
-Ulya Winarno,3200091426140800,Bandung,Jawa Barat,11/23/1982,42,Wiraswasta," Rp500,000 ",4,1,0,2,0,0,1,Tidak menerima bansos
-Mariadi Oktaviani,3200688014306570,Samarinda,Kalimantan Timur,9/2/1973,51,Wiraswasta," Rp500,000 ",8,1,3,2,0,1,4,menerima bansos
-Arsanto Artati,3200406179202220,Manado,Sulawesi Utara,1/6/1973,52,Wiraswasta," Rp2,000,000 ",2,0,1,1,0,0,0,Tidak menerima bansos
-Umar Megantara,3200726510231150,Bandung,Jawa Barat,10/5/1996,28,Karyawan," Rp2,000,000 ",9,0,2,2,2,2,5,menerima bansos
-Alika Susanti,3200920098587040,Lampung,Lampung,4/12/1988,37,Karyawan," Rp500,000 ",2,1,0,1,0,0,0,Tidak menerima bansos
-Balidin Yolanda,3200989377017990,Banjarmasin,Kalimantan Selatan,4/6/1978,47,Tidak Bekerja, Rp-   ,8,1,3,0,1,2,4,menerima bansos
-Ayu Abibi,3200263073193450,Gorontalo,Gorontalo,2/10/1960,65,Wiraswasta," Rp500,000 ",8,1,2,2,2,0,4,menerima bansos
-Ida Usama,3200686073400500,Medan,Sumatera Utara,7/22/1955,69,Wiraswasta," Rp1,200,000 ",6,1,0,1,2,1,3,Tidak menerima bansos
-Puti Rati Ardianto,3200668173997830,Kendari,Sulawesi Tenggara,12/5/1968,56,Buruh," Rp2,000,000 ",3,0,1,0,1,1,2,Tidak menerima bansos
-Dadap Fujiati,3200941835894500,Medan,Sumatera Utara,9/29/1999,25,Buruh," Rp1,000,000 ",7,1,2,0,2,2,4,menerima bansos
-Yance Aryanti,3200515275047320,Manokwari,Papua Barat,8/11/1958,66,Karyawan," Rp2,000,000 ",9,1,3,2,2,1,5,menerima bansos
-Eman Irawan,3200245290362470,Pontianak,Kalimantan Barat,2/15/1960,65,Petani," Rp1,500,000 ",8,0,2,1,2,2,4,menerima bansos
-Najib Saragi,3200441981404950,Padang,Sumatera Barat,1/22/1992,33,Buruh," Rp1,200,000 ",5,1,1,1,1,0,2,Tidak menerima bansos
-Laswi Wasita,3200880572204280,Palangka Raya,Kalimantan Tengah,1/18/1957,68,Karyawan," Rp1,200,000 ",4,0,0,2,1,0,2,Tidak menerima bansos
-Karya Damanik,3200252562903610,Malang,Jawa Timur,1/29/1975,50,Tidak Bekerja, Rp-   ,6,0,1,1,2,1,3,Tidak menerima bansos
-Lala Maryati,3200166059912850,Pekanbaru,Riau,11/16/1955,69,Buru," Rp2,000,000 ",6,0,3,2,0,0,3,Tidak menerima bansos
-Almira Usada,3200303558298140,Samarinda,Kalimantan Timur,10/1/1967,57,Tidak Bekerja, Rp-   ,6,1,0,2,2,0,3,Tidak menerima bansos
-Kamidin Santoso,3200998660189640,Jayapura,Papua,4/22/1955,70,Tidak Bekerja, Rp-   ,5,1,1,0,1,2,3,Tidak menerima bansos
-Diana Fujiati,3200273937623640,Surabaya,Jawa Timur,5/7/1960,65,Karyawan," Rp1,500,000 ",7,1,0,1,2,2,3,Tidak menerima bansos
-Alim Wastuti,3200233340576450,Jayapura,Papua,9/10/1995,29,Buru," Rp500,000 ",7,0,1,2,1,2,4,menerima bansos
-Jagaraga Akim,3200220886128000,Banjarmasin,Kalimantan Selatan,4/9/1987,38,Tidak Bekerja, Rp-   ,4,1,2,1,0,0,1,Tidak menerima bansos
-Raayu Sudiati,3200826472129180,Palu,Sulawesi Tengah,12/6/1988,36,Tidak Bekerja, Rp-   ,7,0,2,2,0,2,4,menerima bansos
-Joko Utasoit.,3200791497850680,Sorong,Papua Barat,11/16/1955,69,Karyawan," Rp1,000,000 ",7,1,3,2,1,0,4,menerima bansos
-Sutan Mursinin Nasiruddin,3200483783292160,Makassar,Sulawesi Selatan,12/13/1956,68,Buru," Rp2,000,000 ",8,1,2,1,2,2,4,menerima bansos
-Cayono Widiastuti,3200654890933150,Semarang,Jawa Tengah,8/16/1973,51,Wiraswasta," Rp1,800,000 ",6,1,1,0,2,2,3,Tidak menerima bansos
-Salima Abibi,3200277748463010,Balikpapan,Kalimantan Timur,2/14/1976,49,Buru," Rp1,200,000 ",5,1,1,0,2,1,3,Tidak menerima bansos
-Karta Laksmiwati,3200989314347650,Makassar,Sulawesi Selatan,1/18/1985,40,Wiraswasta," Rp500,000 ",9,0,3,2,2,2,5,menerima bansos
-Eka Utama,3200773499939070,Jayapura,Papua,1/16/1962,63,Buru," Rp1,000,000 ",7,0,3,2,0,1,4,menerima bansos
-Adika Prakasa,3200126425329790,Lampung,Lampung,11/17/1997,27,Petani," Rp2,000,000 ",4,0,2,0,1,1,3,Tidak menerima bansos
-Vivi Usada,3200358677625870,Manado,Sulawesi Utara,3/2/1967,58,Tidak Bekerja, Rp-   ,8,1,3,1,0,2,3,Tidak menerima bansos
-Zizi Januar,3200987758913050,Bpp,Kalimantan Timur,3/2/1987,38,Buru," Rp1,500,000 ",6,1,1,1,1,1,3,Tidak menerima bansos
-Sutan Jono Nasyia,3200147669546720,Bengkulu,Kalimantan Timur,4/1/1967,58,Tidak Bekerja, Rp-   ,3,1,0,0,1,0,1,Tidak menerima bansos
-Tomi Januar,3200965742583570,Pekanbaru,Riau,6/21/1999,26,Petani," Rp2,000,000 ",4,0,0,1,1,1,2,Tidak menerima bansos
-Edi Purwanti,3200418615444540,Makassar,Sulawesi Selatan,5/3/1967,58,Petani," Rp1,500,000 ",9,1,3,1,2,1,4,menerima bansos
-Patricia Mangunsong,3200927307577890,Bogor,Kalimantan Timur,4/3/1964,61,Karyawan," Rp3,000,000 ",3,0,0,1,1,0,1,Tidak menerima bansos
-Galur Andriani,3200220794956860,Kendari,Sulawesi Tenggara,8/10/1987,37,Buruh," Rp500,000 ",4,1,1,0,1,0,1,Tidak menerima bansos
-Farunnisa Utasoit,3200064991687220,Padang,Sumatera Barat,9/9/1981,43,Buru," Rp1,000,000 ",5,0,3,1,1,0,3,Tidak menerima bansos
-Sutan Daliono Prakasa,3200148386048330,Padang,Sumatera Barat,11/8/1967,57,Petani," Rp1,000,000 ",3,1,1,0,0,1,1,Tidak menerima bansos
-Nurul Palastri,3200501478120300,Depok,Jawa Barat,5/12/1976,49,Tidak Bekerja, Rp-   ,8,1,1,2,1,2,4,menerima bansos
-Sari Suryatmi,3200844884435240,Bengkulu,Kalimantan Timur,12/18/1987,37,Petani," Rp500,000 ",4,0,1,1,1,1,2,Tidak menerima bansos
-Paulin Budiman,3200325110949600,Malang,Jawa Timur,9/11/1988,36,Petani," Rp1,000,000 ",7,0,2,2,2,1,5,menerima bansos
-Ika Budiman,3200167713774410,Sorong,Papua Barat,1/13/1967,58,Karyawan," Rp1,500,000 ",5,0,3,2,0,0,3,Tidak menerima bansos
-Tedi Mandasari,3200602560437790,Bekasi,Kalimantan Timur,4/16/1987,38,Petani," Rp500,000 ",4,1,0,2,0,1,2,Tidak menerima bansos
-Rangga Yulianti,3200996098707740,Yogyakarta,DI Yogyakarta,8/25/1978,46,Petani," Rp2,000,000 ",7,0,2,2,2,0,4,menerima bansos
-Paiman Uwais,3200771342440310,Palangka Ry,Kalimantan Tengah,4/18/1973,52,Karyawan," Rp1,500,000 ",3,0,1,0,0,2,1,Tidak menerima bansos
-Laswi Lestari,3200574473837020,Padang,Sumatera Barat,2/28/1957,68,Tidak Bekerja, Rp-   ,7,1,0,1,2,2,3,Tidak menerima bansos
-Wardaya Siotang.,3200462541657430,Surabaya,Jawa Timur,2/13/1955,70,Karyawan," Rp1,000,000 ",9,0,3,1,2,2,4,menerima bansos
-Tgkwani Mardiya,3200284792992140,Banjarmasin,Kalimantan Selatan,6/4/1955,70,Wiraswasta," Rp1,000,000 ",2,0,2,0,0,0,1,Tidak menerima bansos
-Raisa Raayu,3200046581914650,Bengkulu,Kalimantan Timur,2/3/1963,62,Petani," Rp1,500,000 ",5,0,2,0,2,0,3,Tidak menerima bansos
-Kiandra Ardianto,3200621286919670,Jambi,Jambi,4/28/1974,51,Karyawan," Rp1,500,000 ",4,1,1,0,1,1,2,Tidak menerima bansos
-Ardi Sitompul,3200769349338380,Makassar,Sulawesi Selatan,3/3/1976,49,Petani," Rp2,000,000 ",6,0,1,0,2,2,3,Tidak menerima bansos
-Gabriella Ramawati,3200972010336970,Manado,Sulawesi Utara,1/25/1999,26,Petani," Rp210,000 ",4,0,0,1,0,2,1,Tidak menerima bansos
-Restu Adriansya,3200049320127450,Sorong,Papua Barat,10/5/1963,61,Buru," Rp1,000,000 ",8,0,2,2,2,1,5,menerima bansos
-Puji Nasiruddin,3200425506790390,Palembang,Sumatera Selatan,10/1/1991,33,Tidak Bekerja, Rp-   ,4,1,2,0,1,0,2,Tidak menerima bansos
-Sutan Jayadi Irawan,3200180414171600,Sorong,Papua Barat,8/30/1967,57,Wiraswasta," Rp500,000 ",6,0,2,2,0,2,4,menerima bansos
-Cintia Lazuardi,3200739812166610,Samarinda,Kalimantan Timur,5/4/1988,37,Karyawan," Rp500,000 ",1,0,0,0,0,0,0,Tidak menerima bansos
-Rama Firgantoro,3200025210698250,Makassar,Sulawesi Selatan,2/28/1987,38,Wiraswasta," Rp1,000,000 ",4,0,3,0,0,1,2,Tidak menerima bansos
-Paris Samosir,3200993498459410,Palu,Sulawesi Tengah,12/5/1995,29,Karyawan," Rp1,500,000 ",7,1,3,2,0,0,3,Tidak menerima bansos
-Ani Pertiwi,3200814482874190,Manokwari,Papua Barat,3/15/1985,40,Tidak Bekerja, Rp-   ,6,0,3,2,1,0,4,menerima bansos
-Agnes Zulkarnain,3200220648151380,Padang,Sumatera Barat,10/7/1955,69,Karyawan," Rp500,000 ",8,1,1,2,1,2,4,menerima bansos
-Jessica Siombing,3200442114417620,Semarang,Jawa Tengah,7/22/1974,50,Karyawan," Rp2,000,000 ",7,1,3,0,2,1,4,menerima bansos
-Safina Uyaina,3200462073016340,Semarang,Jawa Tengah,9/7/1993,31,Wiraswasta," Rp500,000 ",4,0,2,0,2,0,2,Tidak menerima bansos
-Arjaya Mandala,3200405825764770,Semarang,Jawa Tengah,2/18/2000,25,Wiraswasta," Rp2,000,000 ",6,0,3,2,1,0,4,menerima bansos
-Puti Melinda Oktaviani,3200781267445380,Semarang,Jawa Tengah,7/20/1957,67,Buru," Rp2,000,000 ",6,0,3,0,1,1,4,menerima bansos
-Dian Pranowo,3200435605629370,Depok,Jawa Barat,10/13/1964,60,Petani," Rp500,000 ",7,0,3,0,2,1,4,menerima bansos
-Karima Purnawati,3200517137581240,Manokwari,Papua Barat,3/2/1993,32,Wiraswasta," Rp2,000,000 ",6,1,0,1,1,2,3,Tidak menerima bansos
-Maida Uwais,3200638513342870,Manado,Sulawesi Utara,9/11/1996,28,Buruh," Rp1,500,000 ",8,0,2,2,2,2,5,menerima bansos
-Kartika Mangunsong,3200380621384070,Gorontalo,Gorontalo,5/24/1967,58,Tidak Bekerja, Rp-   ,4,1,1,1,0,1,1,Tidak menerima bansos
-Rusman Artati,3200045739186320,Surabaya,Jawa Timur,12/28/1972,52,Buru," Rp1,500,000 ",4,1,2,0,0,0,1,Tidak menerima bansos
-Adiarja Ardiansya,3200955515050410,Malang,Jawa Timur,12/30/1995,29,Buru," Rp1,500,000 ",7,0,3,1,2,0,3,Tidak menerima bansos
-Jamil Namaga,3200875501079860,Semarang,Jawa Tengah,4/29/1975,50,Tidak Bekerja, Rp-   ,4,0,1,1,1,1,2,Tidak menerima bansos
-Rina Utama,3200199651276750,Malang,Jawa Timur,1/27/1984,41,Buru," Rp329,000 ",8,1,2,1,2,1,4,menerima bansos
-Gina Jailani.,3200207021779520,Palembang,Sumatera Selatan,11/1/1960,64,Buruh," Rp1,000,000 ",9,1,3,1,2,1,4,menerima bansos
-Farunnisa Siotang,3200744952960150,Padang,Sumatera Barat,5/7/1956,69,Buruh," Rp1,000,000 ",1,0,0,0,0,1,1,Tidak menerima bansos
-Jane Idayanto,3200297733053530,Bogor,Kalimantan Timur,7/1/1973,52,Wiraswasta," Rp500,000 ",4,1,0,1,0,1,1,Tidak menerima bansos
-Samia Pertiwi,3200551109884620,Samarinda,Kalimantan Timur,7/12/1993,31,Buruh," Rp2,000,000 ",5,1,0,1,0,2,2,Tidak menerima bansos
-Ani Alim,3200018994849230,Manado,Sulawesi Utara,5/30/1988,37,Petani," Rp1,500,000 ",5,1,1,1,2,0,2,Tidak menerima bansos
-Balijan Manullang,3200282223047660,Manado,Sulawesi Utara,9/7/1985,39,Wiraswasta," Rp1,000,000 ",6,1,1,1,2,0,2,Tidak menerima bansos
-Embu Aryanto,3200103222695400,Pekanbaru,Riau,12/9/1963,61,Petani," Rp1,500,000 ",4,0,0,2,2,0,2,Tidak menerima bansos
-Wirda Siregar,3200944988466940,Balikpapan,Kalimantan Timur,7/13/1959,65,Karyawan," Rp2,000,000 ",6,0,1,2,2,1,4,menerima bansos
-Sabrina Narpati,3200308188413290,Merauke,Papua Selatan,9/20/1971,53,Buruh," Rp1,500,000 ",7,0,3,0,2,2,4,menerima bansos
-Yono Utasoit,3200724061552400,Jambi,Jambi,9/7/1981,43,Petani," Rp500,000 ",5,1,1,1,2,0,2,Tidak menerima bansos
-Ika Setiawan,3200652406806430,Gorontalo,Gorontalo,1/27/1970,55,Karyawan," Rp2,300,000 ",8,0,3,0,2,2,4,menerima bansos
-Simon Wacana,3200219141897900,Lampung,Lampung,2/9/1997,28,Petani," Rp3,200,000 ",8,0,3,1,1,2,5,menerima bansos
-Ira Winarno,3200232584334420,Depok,Jawa Barat,11/22/1998,26,Wiraswasta," Rp500,000 ",10,1,2,2,2,2,5,menerima bansos
-Mutia Laksita,3200820302144670,Jambi,Jambi,5/25/1989,36,Wiraswasta," Rp4,000,000 ",5,1,1,0,2,0,3,Tidak menerima bansos
-Kcakrawala Fujiati,3200152307066470,Surabaya,Jawa Timur,2/24/1995,30,Tidak Bekerja, Rp-   ,6,1,2,1,1,0,3,Tidak menerima bansos
-Mitra Assana,3200330342271580,Pekanbaru,Riau,7/2/1996,29,Tidak Bekerja, Rp-   ,5,1,1,0,2,0,2,Tidak menerima bansos
-Asna Maryati,3200693578304360,Semarang,Jawa Tengah,7/29/1959,65,Petani," Rp500,000 ",7,0,3,0,2,1,4,menerima bansos
-Azalea Kusumo,3200869559055860,Jayapura,Papua,5/11/1986,39,Tidak Bekerja, Rp-   ,4,1,0,1,1,1,2,Tidak menerima bansos
-Artawan Latupono,3200960591723620,Bogor,Kalimantan Timur,4/7/1991,34,Buruh," Rp1,000,000 ",4,0,2,0,1,0,2,Tidak menerima bansos
-Pangeran Lazuardi,3200197054120870,Makassar,Sulawesi Selatan,12/2/1990,34,Tidak Bekerja, Rp-   ,7,0,2,1,1,2,4,menerima bansos
-Puti Suryono,3200704389527620,Malang,Jawa Timur,10/14/1984,40,Buruh," Rp1,500,000 ",5,0,3,0,0,2,3,Tidak menerima bansos
-Nrima Nurdiyanti,3200099853946180,Sorong,Papua Barat,10/8/1992,32,Wiraswasta," Rp2,000,000 ",1,1,0,0,0,0,0,Tidak menerima bansos
-Vera Nurdiyanti,3200029823600090,Balikpapan,Kalimantan Timur,9/8/1981,43,Tidak Bekerja, Rp-   ,7,1,3,0,2,1,4,menerima bansos
-Mala Maendra,3200290322968000,Semarang,Jawa Tengah,8/28/1957,67,Buruh," Rp1,500,000 ",8,1,3,2,1,1,5,menerima bansos
-Ika Fujiati,3200040148108530,Kendari,Sulawesi Tenggara,2/10/1977,48,Wiraswasta," Rp1,000,000 ",7,1,0,2,2,2,4,menerima bansos
-Cindy Susanti,3200102277121570,Merauke,Papua Selatan,12/23/1979,45,Wiraswasta," Rp1,000,000 ",6,0,2,0,1,2,4,menerima bansos
-Tania Rajasa,3200765129286810,Pekanbaru,Riau,3/13/1993,32,Tidak Bekerja, Rp-   ,4,0,0,2,0,1,2,Tidak menerima bansos
-Damar Maryati,3200841027737780,Manado,Sulawesi Utara,12/21/1963,61,Tidak Bekerja, Rp-   ,7,1,3,1,0,1,3,Tidak menerima bansos
-Ica Abibi,3200797231830960,Makassar,Sulawesi Selatan,11/29/1976,48,Wiraswasta," Rp1,000,000 ",4,1,0,2,0,0,1,Tidak menerima bansos
-Sakura Yuniar,3200679327879710,Malang,Jawa Timur,5/23/1988,37,Buruh," Rp1,000,000 ",6,0,1,1,2,2,3,Tidak menerima bansos
-Maida Gunarto,3200174543421020,Jambi,Jambi,6/6/1972,53,Wiraswasta," Rp500,000 ",4,0,1,1,1,1,2,Tidak menerima bansos
-Jayadi Nurdiyanti,3200055348133000,Semarang,Jawa Tengah,1/18/1992,33,Buruh," Rp1,000,000 ",6,0,2,0,2,1,4,menerima bansos
-Eli Utama,3200671405050990,Bogor,Kalimantan Timur,6/26/1973,52,Wiraswasta," Rp500,000 ",6,1,2,0,2,0,3,Tidak menerima bansos
-Paris Sitompul,3200890619220210,Lampung,Lampung,2/8/1968,57,Petani," Rp1,000,000 ",6,0,0,1,2,2,3,Tidak menerima bansos
-Ilsa Siombing,3200496040347410,Jayapura,Papua,9/2/1981,43,Karyawan," Rp4,300,000 ",3,0,1,1,0,0,1,Tidak menerima bansos
-Legawa Permadi,3200507357672510,Lampung,Lampung,7/3/1967,58,Wiraswasta," Rp1,000,000 ",7,1,2,2,1,1,5,menerima bansos
-Mnrima Suartini,3200783287652660,Manokwari,Papua Barat,6/8/1965,60,Wiraswasta," Rp1,500,000 ",3,0,0,0,1,2,2,Tidak menerima bansos
-Cut Novi Saptono,3200878136674070,Bengkulu,Kalimantan Timur,12/3/1978,46,Tidak Bekerja, Rp-   ,5,1,0,0,2,1,3,Tidak menerima bansos
-Lemba Siombing,3200945501457530,Makassar,Sulawesi Selatan,4/17/2000,25,Tidak Bekerja, Rp-   ,4,1,0,1,2,0,1,Tidak menerima bansos
-Enda Aryanti,3200096601422620,Medan,Sumatera Utara,1/9/1964,61,Wiraswasta," Rp500,000 ",5,1,1,0,2,0,2,Tidak menerima bansos
-Paulin Putra,3200627441800870,Sorong,Papua Barat,1/15/1982,43,Buruh," Rp2,500,000 ",5,1,1,1,2,0,2,Tidak menerima bansos
-Amalia Laksmiwati,3200459841875040,Semarang,Jawa Tengah,10/9/1993,31,Petani," Rp500,000 ",9,1,2,2,1,2,5,menerima bansos
-Purwadi Usada,3200358669348150,Padang,Sumatera Barat,3/17/2000,25,Wiraswasta," Rp500,000 ",6,1,1,1,1,2,3,Tidak menerima bansos
-Unggul Utami,3200195472340120,Bengkulu,Kalimantan Timur,11/30/1991,33,Wiraswasta," Rp1,500,000 ",2,0,0,1,0,1,1,Tidak menerima bansos
-Arsanto Januar,3200225050365850,Pontianak,Kalimantan Barat,11/12/1969,55,Petani," Rp1,000,000 ",7,0,0,2,2,2,4,menerima bansos
-Marsito Mangunsong,3200852303592570,Manado,Sulawesi Utara,4/20/1984,41,Petani," Rp1,500,000 ",3,0,0,2,0,1,2,Tidak menerima bansos
-Safina Putra,3200994090487450,Palembang,Sumatera Selatan,12/21/1990,34,Tidak Bekerja, Rp-   ,6,1,2,0,1,2,4,menerima bansos
-Jasmin Pradipta,3200774038899450,Surabaya,Jawa Timur,1/4/1968,57,Wiraswasta," Rp1,000,000 ",7,1,2,1,2,1,4,menerima bansos
-Martani Dongoran,3200770082161830,Jambi,Jambi,6/30/1996,29,Petani," Rp2,000,000 ",8,1,3,1,1,2,4,menerima bansos
-Unjani Mandala,3200572902141520,Medan,Sumatera Utara,11/20/1973,51,Tidak Bekerja, Rp-   ,2,0,0,2,0,0,1,Tidak menerima bansos
-Tgkjuli Wijaya,3200725412840920,Bekasi,Kalimantan Timur,11/15/1973,51,Wiraswasta," Rp1,000,000 ",5,1,1,2,0,1,3,Tidak menerima bansos
-Pangestu Suryatmi,3200262667210620,Palangka Raya,Kalimantan Tengah,9/14/1977,47,Wiraswasta," Rp2,000,000 ",6,1,1,0,2,1,3,Tidak menerima bansos
-Endra Wulandari.,3200571783750650,Yogyakarta,DI Yogyakarta,6/21/1959,66,Karyawan," Rp800,000 ",7,0,2,2,2,1,5,menerima bansos
-Sabrina Saragi,3200356495723310,Samarinda,Kalimantan Timur,11/26/1970,54,Buruh," Rp900,000 ",8,1,3,0,2,1,4,menerima bansos
-Banawa Astuti,3200873896691570,Sorong,Papua Barat,3/21/1984,41,Wiraswasta," Rp1,000,000 ",5,0,2,1,0,1,3,Tidak menerima bansos
-Safina Astuti,3200837055138220,Balikpapan,Kalimantan Timur,2/20/1977,48,Petani," Rp1,500,000 ",5,0,1,1,1,1,3,Tidak menerima bansos
-Ajiman Nugroo,3200498370616320,Pontianak,Kalimantan Barat,3/27/1981,44,Petani," Rp500,000 ",7,0,1,2,2,1,4,menerima bansos
-Jarwa Pratiwi,3200658699375730,Kendari,Sulawesi Tenggara,3/4/1960,65,Petani," Rp500,000 ",10,1,3,2,2,1,5,menerima bansos
-Kanda Adriansya,3200174081566990,Jayapura,Papua,3/2/1993,32,Karyawan," Rp2,000,000 ",3,0,0,0,2,0,1,Tidak menerima bansos
-Gambira Farida,3200523702813500,Medan,Sumatera Utara,5/2/1982,43,Tidak Bekerja, Rp-   ,8,0,3,2,0,2,4,menerima bansos
-Arsanto Laksita,3200528521489840,Padang,Sumatera Barat,5/15/1998,27,Wiraswasta," Rp500,000 ",3,0,1,1,0,1,1,Tidak menerima bansos
-Gambira Palastri,3200466008106100,Merauke,Papua Selatan,5/27/1959,66,Karyawan," Rp500,000 ",6,0,1,2,2,0,3,Tidak menerima bansos
-Mariadi Wacana,3200272241360880,Palu,Sulawesi Tengah,8/14/1979,45,Karyawan," Rp1,000,000 ",4,1,1,0,1,1,2,Tidak menerima bansos
-Latif Wacana,3200077380111950,Merauke,Papua Selatan,8/9/1972,52,Wiraswasta," Rp2,000,000 ",4,0,0,1,2,1,2,Tidak menerima bansos
-Jagapati Wibowo,3200060399736690,Pontianak,Kalimantan Barat,7/8/1984,40,Wiraswasta," Rp500,000 ",5,0,2,2,0,1,4,menerima bansos
-Rella Nainggolan,3200708703542510,Manokwari,Papua Barat,10/14/1996,28,Tidak Bekerja, Rp-   ,4,0,3,0,0,1,2,Tidak menerima bansos
-Dian Mardiya,3200153523845300,Manokwari,Papua Barat,9/9/1971,53,Tidak Bekerja, Rp-   ,5,1,0,2,1,1,4,menerima bansos
-Darmana Ariya,3200421248031820,Manado,Sulawesi Utara,12/21/1956,68,Petani," Rp500,000 ",4,0,2,0,0,2,2,Tidak menerima bansos
-Latif Siotang,3200798483608270,Bandung,Jawa Barat,11/15/1989,35,Buruh," Rp700,000 ",1,1,0,0,0,0,0,Tidak menerima bansos
-Irwan Maendra,3200089662024040,Palembang,Sumatera Selatan,1/21/1986,39,Buruh," Rp500,000 ",5,0,2,1,1,1,4,menerima bansos
-Cintia Prayoga,3200279108562490,Bengkulu,Kalimantan Timur,8/27/1970,54,Karyawan," Rp1,000,000 ",5,1,2,1,1,0,3,Tidak menerima bansos
-Pandu Purnawati,3200105835271790,Padang,Sumatera Barat,1/12/1958,67,Tidak Bekerja, Rp-   ,7,0,3,0,2,2,4,menerima bansos
-Rati Zulkarnain,3200074922325540,Pekanbaru,Riau,3/26/1991,34,Petani," Rp1,500,000 ",3,0,0,1,2,0,1,Tidak menerima bansos
-Tgkbakiono Prasetya,3200544224361900,Lampung,Lampung,6/25/1989,36,Buruh," Rp1,500,000 ",9,0,3,2,1,2,5,menerima bansos
-Puti Ika Ariya,3200103709915640,Bandung,Jawa Barat,3/21/1988,37,Wiraswasta," Rp500,000 ",9,1,2,2,2,1,5,menerima bansos
-Ari Idayanto,3200101339940980,Palembang,Sumatera Selatan,12/10/1973,51,Petani," Rp1,500,000 ",6,0,3,0,1,1,4,menerima bansos
-Cut Jessica Raayu,3200209094551780,Palembang,Sumatera Selatan,5/19/1976,49,Wiraswasta," Rp1,000,000 ",5,1,3,1,0,0,2,Tidak menerima bansos
-Irnanto Andayani,3200336701423120,Pontianak,Kalimantan Barat,4/13/1966,59,Petani," Rp1,500,000 ",6,1,2,2,0,1,4,menerima bansos
-Nalar Nuraini,3200817995337750,Banjarmasin,Kalimantan Selatan,8/3/1999,25,Wiraswasta," Rp2,000,000 ",3,0,1,1,1,0,1,Tidak menerima bansos
-Jasmin Budiyanto,3200435210582180,Sorong,Papua Barat,4/15/1982,43,Tidak Bekerja, Rp-   ,2,0,1,0,0,1,1,Tidak menerima bansos
-Fitria Abibi,3200720652356880,Bengkulu,Kalimantan Timur,6/25/1993,32,Tidak Bekerja, Rp-   ,8,1,3,2,1,0,4,menerima bansos
-Cindy Putra,3200784553667130,Manokwari,Papua Barat,1/15/2000,25,Buruh," Rp4,000,000 ",5,1,1,1,1,1,4,menerima bansos
-Vivi Assana,3200386806393370,Jayapura,Papua,1/15/1978,47,Tidak Bekerja, Rp-   ,1,0,0,0,0,0,0,Tidak menerima bansos
-Amima Firmansya,3200639730549370,Banjarmasin,Kalimantan Selatan,10/27/1983,41,Tidak Bekerja, Rp-   ,7,1,2,0,2,2,4,menerima bansos
-Ellis Yulianti,3200555357500330,Manado,Sulawesi Utara,6/18/1975,50,Petani," Rp1,000,000 ",5,1,2,1,0,1,3,Tidak menerima bansos
+NAMA KK;NIK;DOMISILI;PROVINSI;TANGGAL LAHIR;USIA;PEKERJAAN; PENDAPATAN ;JUMLAH ANGGOTA KEL;JML IBU HAMIL;JML BALITA;JML LANSIA;JML ANAK PUTUS SEKOLA;JML ANGGOTA DISABILITAS;KSE;KATEGORI
+Mana Wayudin;3200506431157410;Semarang;Jawa Tengah;11/21/1974;50;Buru;" Rp1;000;000 ";7;0;2;2;2;0;4;menerima bansos
+Ozy Usada;3200350801577370;Padang;Sumatera Barat;3/25/1993;32;Buru;" Rp2;000;000 ";5;0;2;0;1;1;4;menerima bansos
+Kenzie Ardianto;3200663704259220;Manado;Sulawesi Utara;10/9/1991;33;Petani;" Rp500;000 ";5;1;1;2;0;1;3;Tidak menerima bansos
+Balamantri Nurdiyanti;3200201606425940;Medan;Sumatera Utara;1/21/1969;56;Petani;" Rp2;000;000 ";7;0;3;1;2;1;4;menerima bansos
+Xanana Saefulla;3200651988276490;Lampung;Lampung;9/26/1971;53;Wiraswasta;" Rp1;000;000 ";6;0;1;2;2;0;3;Tidak menerima bansos
+Ica Nababan;3200918811608090;Semarang;Jawa Tengah;2/11/1985;40;Karyawan;" Rp500;000 ";3;0;0;2;1;0;2;Tidak menerima bansos
+Kariman Puspasari;3200867299084200;Merauke;Papua Selatan;11/5/1968;56;Wiraswasta;" Rp1;000;000 ";3;1;0;0;1;0;1;Tidak menerima bansos
+Yance Simbolon;3200326079505170;Manokwari;Papua Barat;6/7/1977;48;Wiraswasta;" Rp2;000;000 ";7;1;1;1;1;2;3;Tidak menerima bansos
+Nyana Mustofa;3200381497381750;Padang;Sumatera Barat;7/1/2000;25;Petani;" Rp2;000;000 ";3;1;0;1;1;0;1;Tidak menerima bansos
+Calista Siombing;3200703094591120;Malang;Jawa Timur;8/30/1971;53;Tidak Bekerja; Rp-   ;4;0;1;0;1;1;2;Tidak menerima bansos
+Rati Saragi;3200568281114690;Malang;Jawa Timur;9/2/1956;68;Karyawan;" Rp2;000;000 ";8;1;2;2;1;1;5;menerima bansos
+Nrima Uyaina;3200744581976920;Depok;Jawa Barat;5/24/1980;45;Tidak Bekerja; Rp-   ;5;0;0;1;2;2;3;Tidak menerima bansos
+Nilam Simanjuntak;3200835690918060;Bengkulu;Kalimantan Timur;6/26/1992;33;Buruh;" Rp1;500;000 ";3;0;1;1;0;0;0;Tidak menerima bansos
+Saadat Suartini;3200552632886030;Bogor;Kalimantan Timur;1/20/1975;50;Wiraswasta;" Rp1;500;000 ";2;0;0;0;2;0;1;Tidak menerima bansos
+Nilam Tamrin;3200075269036660;Merauke;Papua Selatan;7/14/1976;48;Buruh;" Rp500;000 ";5;1;3;0;0;1;3;Tidak menerima bansos
+Kartika Utama;3200058341532950;Padang;Sumatera Barat;12/10/1955;69;Buruh;" Rp500;000 ";4;0;0;2;1;1;3;Tidak menerima bansos
+Kjayeng Ramawati;3200205243697790;Sorong;Papua Barat;8/22/1973;51;Petani;" Rp2;000;000 ";4;1;2;0;0;1;2;Tidak menerima bansos
+Bambang Pratama;3200237575419220;Pekanbaru;Riau;9/13/1997;27;Petani;" Rp500;000 ";7;1;2;2;1;1;5;menerima bansos
+Ina Prakasa;3200121783027790;Depok;Jawa Barat;5/18/1981;44;Wiraswasta;" Rp2;000;000 ";5;0;1;0;2;2;3;Tidak menerima bansos
+Kania Agustina;3200142017816730;Depok;Jawa Barat;3/13/1957;68;Buruh;" Rp1;500;000 ";6;0;2;2;1;1;5;menerima bansos
+Bagas Sudiati;3200950761074760;Lampung;Lampung;12/22/1974;50;Karyawan;" Rp1;500;000 ";8;1;2;0;2;2;4;menerima bansos
+Alika Nurdiyanti;3200269965474000;Bogor;Kalimantan Timur;4/17/1986;39;Wiraswasta;" Rp1;500;000 ";7;0;0;2;2;2;4;menerima bansos
+Saiful Zulkarnain;3200502796320180;Pontianak;Kalimantan Barat;10/8/1986;38;Petani;" Rp2;000;000 ";7;1;1;2;0;2;3;Tidak menerima bansos
+Eru Nurdiyanti;3200255208142300;Manokwari;Papua Barat;5/16/1956;69;Karyawan;" Rp2;000;000 ";5;0;1;1;1;2;3;Tidak menerima bansos
+Emong Yolanda;3200616419224810;Lampung;Lampung;6/25/1956;69;Buruh;" Rp1;500;000 ";7;1;3;1;1;1;4;menerima bansos
+Asmadi Idayat;3200836741578120;Manokwari;Papua Barat;3/4/1970;55;Tidak Bekerja; Rp-   ;6;1;2;1;2;0;3;Tidak menerima bansos
+Ana Wijaya;3200496159975430;Gorontalo;Gorontalo;6/14/1979;46;Karyawan;" Rp1;500;000 ";8;1;1;1;2;2;3;Tidak menerima bansos
+Aisya Widiastuti;3200554938092170;Malang;Jawa Timur;8/8/1967;57;Tidak Bekerja; Rp-   ;3;1;0;1;0;0;0;Tidak menerima bansos
+Rwani Dabukke.;3200656604053440;Balikpapan;Kalimantan Timur;10/5/1995;29;Petani;" Rp2;000;000 ";3;0;1;2;0;0;1;Tidak menerima bansos
+Warta Sirait;3200253958994370;Banjarmasin;Kalimantan Selatan;5/5/1997;28;Karyawan;" Rp2;000;000 ";9;0;3;2;2;2;5;menerima bansos
+Nadine Agustina;3200544320779410;Semarang;Jawa Tengah;7/7/1995;29;Wiraswasta;" Rp500;000 ";1;0;0;1;0;0;0;Tidak menerima bansos
+Ani Aryanti;3200997904086320;Palembang;Sumatera Selatan;7/17/1965;59;Tidak Bekerja; Rp-   ;5;1;1;1;2;0;2;Tidak menerima bansos
+Timbul Lailasari;3200067453051590;Pontianak;Kalimantan Barat;9/16/1998;26;Tidak Bekerja; Rp-   ;6;0;3;2;0;1;4;menerima bansos
+Tgkbalapati Zulaika;3200877894543080;Palu;Sulawesi Tengah;1/12/1994;31;Tidak Bekerja; Rp-   ;5;0;3;2;0;0;3;Tidak menerima bansos
+Fitria Suwarno;3200019416155290;Bandung;Jawa Barat;7/18/1994;30;Buruh;" Rp500;000 ";5;0;0;2;2;0;3;Tidak menerima bansos
+Kamila Prasetya;3200220997567220;Depok;Jawa Barat;11/10/1975;49;Petani;" Rp500;000 ";4;1;1;0;0;2;1;Tidak menerima bansos
+Rangga Saefulla;3200867945419780;Pontianak;Kalimantan Barat;10/19/1990;34;Buruh;" Rp2;000;000 ";6;0;3;1;1;1;4;menerima bansos
+Rlatika Widiastuti;3200295234173500;Semarang;Jawa Tengah;4/28/1957;68;Buruh;" Rp1;000;000 ";3;0;2;1;0;0;1;Tidak menerima bansos
+Sabri Ramawati;3200901312221380;Manokwari;Papua Barat;2/15/1993;32;Buruh;" Rp1;500;000 ";4;0;0;1;0;2;1;Tidak menerima bansos
+Tgkwisnu Pudjiastuti.;3200451788016290;Gorontalo;Gorontalo;4/24/1978;47;Wiraswasta;" Rp1;000;000 ";4;1;1;1;0;0;0;Tidak menerima bansos
+Lanang Kusumo;3200542445192850;Balikpapan;Kalimantan Timur;5/23/1961;64;Petani;" Rp1;500;000 ";5;0;1;2;2;0;3;Tidak menerima bansos
+Zamira Rajata;3200288646192550;Banjarmasin;Kalimantan Selatan;12/6/1965;59;Tidak Bekerja; Rp-   ;5;1;0;0;2;1;3;Tidak menerima bansos
+Vino Pangestu;3200589357447990;Pekanbaru;Riau;3/1/1991;34;Tidak Bekerja; Rp-   ;3;1;0;0;2;0;1;Tidak menerima bansos
+Martani Farida;3200266586482850;Bengkulu;Kalimantan Timur;3/27/1962;63;Tidak Bekerja; Rp-   ;7;1;3;0;0;2;3;Tidak menerima bansos
+Rudi Laksita;3200441534857040;Makassar;Sulawesi Selatan;4/23/1989;36;Wiraswasta;" Rp1;500;000 ";4;0;1;0;1;1;2;Tidak menerima bansos
+Vicky Simanjuntak;3200414074048480;Sorong;Papua Barat;5/6/1961;64;Buruh;" Rp500;000 ";4;0;0;0;1;2;2;Tidak menerima bansos
+Mala Zulaika;3200198684945070;Malang;Jawa Timur;5/2/1965;60;Petani;" Rp1;000;000 ";7;1;2;1;2;1;4;menerima bansos
+Oliva Anggriawan;3200754797345740;Depok;Jawa Barat;8/9/1960;64;Wiraswasta;" Rp1;500;000 ";6;1;1;0;2;1;3;Tidak menerima bansos
+Bagiya Novitasari;3200789306152720;Pontianak;Kalimantan Barat;7/30/1975;49;Tidak Bekerja; Rp-   ;6;1;3;2;0;0;3;Tidak menerima bansos
+Julia Manullang;3200425768918090;Medan;Sumatera Utara;6/28/1975;50;Tidak Bekerja; Rp-   ;6;1;0;2;0;2;3;Tidak menerima bansos
+Samia Sinaga.;3200392334921830;Bekasi;Kalimantan Timur;12/19/1991;33;Tidak Bekerja; Rp-   ;3;0;0;0;1;2;2;Tidak menerima bansos
+Banara Kurniawan;3200731030255300;Bengkulu;Kalimantan Timur;4/14/1993;32;Buruh;" Rp1;000;000 ";7;0;3;2;2;0;4;menerima bansos
+Gilda Prastuti;3200912428767820;Balikpapan;Kalimantan Timur;12/14/1987;37;Buruh;" Rp1;500;000 ";5;0;2;1;1;1;4;menerima bansos
+Nadia Alima;3200331760118450;Padang;Sumatera Barat;10/13/1963;61;Wiraswasta;" Rp4;000;000 ";8;1;1;2;2;2;5;menerima bansos
+Legawa Nasyida;3200790647915140;Kendari;Sulawesi Tenggara;10/12/1983;41;Karyawan;" Rp1;000;000 ";3;0;0;1;0;2;1;Tidak menerima bansos
+Aditya Mustofa;3200983079485010;Depok;Jawa Barat;12/19/1974;50;Karyawan;" Rp2;000;000 ";4;1;0;2;1;0;2;Tidak menerima bansos
+Gading Fujiati;3200455841289880;Jambi;Jambi;5/18/1994;31;Buruh;" Rp1;500;000 ";7;1;1;1;2;2;3;Tidak menerima bansos
+Ayu Prasetyo;3200761047794050;Malang;Jawa Timur;9/22/1965;59;Tidak Bekerja; Rp-   ;8;0;3;2;2;0;4;menerima bansos
+Zara Akim;3200147063897600;Samarinda;Kalimantan Timur;2/12/1964;61;Karyawan;" Rp1;500;000 ";5;1;1;2;1;0;3;Tidak menerima bansos
+Laras Akim;3200608599911780;Padang;Sumatera Barat;6/6/1998;27;Tidak Bekerja; Rp-   ;5;0;3;0;1;0;3;Tidak menerima bansos
+Arsanto Situmorang;3200323820676480;Sorong;Papua Barat;11/3/1994;30;Petani;" Rp2;000;000 ";3;0;2;0;1;0;2;Tidak menerima bansos
+Puti Elisa Narpati;3200168705171870;Samarinda;Kalimantan Timur;4/22/1995;30;Petani;" Rp1;200;000 ";7;1;1;2;1;2;4;menerima bansos
+Sakura Yuliarti;3200448961630130;Bengkulu;Kalimantan Timur;4/13/1970;55;Tidak Bekerja; Rp-   ;4;0;0;1;2;1;2;Tidak menerima bansos
+Galu Agustina;3200335126594390;Manado;Sulawesi Utara;3/24/1961;64;Karyawan;" Rp2;000;000 ";6;0;2;2;0;1;4;menerima bansos
+Zulfa Assana;3200104555616740;Medan;Sumatera Utara;10/8/1994;30;Wiraswasta;" Rp2;000;000 ";7;0;2;0;2;2;4;menerima bansos
+Paiman Wibisono;3200182157993800;Manado;Sulawesi Utara;2/8/1968;57;Wiraswasta;" Rp1;000;000 ";5;0;2;0;2;1;4;menerima bansos
+Wira Prakasa;3200066777893610;Merauke;Papua Selatan;10/9/1991;33;Buru;" Rp500;000 ";6;1;0;1;2;1;3;Tidak menerima bansos
+Ratna Farida;3200540878347130;Gorontalo;Gorontalo;4/13/1987;38;Karyawan;" Rp3;500;000 ";3;0;1;0;2;0;2;Tidak menerima bansos
+Cakrawala Winarno;3200745096107630;Pontianak;Kalimantan Barat;5/4/1959;66;Buru;" Rp1;000;000 ";7;0;2;1;1;2;4;menerima bansos
+Wisnu Samosir;3200045612692040;Semarang;Jawa Tengah;2/12/1965;60;Karyawan;" Rp1;000;000 ";7;0;3;2;0;1;4;menerima bansos
+Lalita Irawan;3200835837929520;Samarinda;Kalimantan Timur;7/25/1967;57;Buru;" Rp1;500;000 ";6;0;0;2;1;2;4;menerima bansos
+Olivia Marbun;3200134159118750;Medan;Sumatera Utara;12/6/1990;34;Tidak Bekerja; Rp-   ;5;1;0;1;2;1;3;Tidak menerima bansos
+Lamar Dongoran;3200793380079840;Bogor;Kalimantan Timur;11/30/1958;66;Petani;" Rp2;000;000 ";6;1;3;0;0;1;3;Tidak menerima bansos
+Amelia Andriani;3200336188571970;Plangkary;Kalimantan Tengah;9/13/1964;60;Wiraswasta;" Rp1;000;000 ";6;1;2;0;0;2;3;Tidak menerima bansos
+Mulya Agustina;3200510560183900;Merauke;Papua Selatan;3/16/1978;47;Buru;" Rp1;500;000 ";5;1;0;0;2;2;3;Tidak menerima bansos
+Puti Sadina Budiyanto;3200949374346460;Padang;Sumatera Barat;5/23/1976;49;Buru;" Rp1;000;000 ";5;1;1;1;2;0;2;Tidak menerima bansos
+Tina Firmansya;3200441765690170;Semarang;Jawa Tengah;6/18/1957;68;Petani;" Rp2;000;000 ";6;1;3;0;1;0;3;Tidak menerima bansos
+Cut Amalia Pangestu;3200003130018790;Sorong;Papua Barat;4/12/2000;25;Wiraswasta;" Rp1;200;000 ";6;1;2;1;0;2;3;Tidak menerima bansos
+Cut Kamila Sitorus;3200350779476010;Manokwari;Papua Barat;3/25/1965;60;Buru;" Rp1;000;000 ";7;0;2;2;2;0;4;menerima bansos
+Padmi Purnawati;3200442919759290;Semarang;Jawa Tengah;11/10/1963;61;Tidak Bekerja; Rp-   ;5;1;1;0;2;0;2;Tidak menerima bansos
+Puti Ella Pratiwi;3200241046721390;Palangka Raya;Kalimantan Tengah;5/30/1960;65;Karyawan;" Rp1;200;000 ";4;1;0;1;1;1;2;Tidak menerima bansos
+Yance Zulaika;3200594820670990;Jayapura;Papua;6/5/1984;41;Tidak Bekerja; Rp-   ;2;0;1;0;0;1;1;Tidak menerima bansos
+Elu Lestari;3200381509462120;Yogyakarta;DI Yogyakarta;9/13/1978;46;Karyawan;" Rp2;000;000 ";6;1;0;2;2;0;3;Tidak menerima bansos
+Tgkprasetya Prabowo;3200756580860640;Bjrmasin;Kalimantan Timur;4/11/1992;33;Buru;" Rp1;500;000 ";7;1;2;2;2;0;4;menerima bansos
+Kardi Prasasta;3200185170183890;Padang;Sumatera Barat;1/7/1976;49;Wiraswasta;" Rp1;500;000 ";10;1;3;2;1;2;5;menerima bansos
+Jasmani Sitompul;3200065206629950;Gorontalo;Gorontalo;11/17/1974;50;Tidak Bekerja; Rp-   ;5;0;3;2;0;0;3;Tidak menerima bansos
+Marwata Waluyo;3200075774082200;Manokwari;Papua Barat;12/16/1969;55;Petani;" Rp500;000 ";4;0;2;1;0;0;1;Tidak menerima bansos
+Sadina Siregar;3200167135398650;Bogor;Kalimantan Timur;9/17/1959;65;Petani;" Rp5;000;000 ";9;1;3;2;1;2;6;menerima bansos
+Wakiman Utagalung;3200000666445580;Samarinda;Kalimantan Timur;3/16/1968;57;Karyawan;" Rp3;200;000 ";6;1;3;0;0;2;4;menerima bansos
+Artawan Tarioran;3200532301207650;Pekanbaru;Riau;4/19/1968;57;Petani;" Rp1;200;000 ";7;1;2;2;2;0;4;menerima bansos
+Azalea Yolanda;3200003097189690;Gorontalo;Gorontalo;3/22/1961;64;Buru;" Rp2;600;000 ";4;1;0;0;0;2;1;Tidak menerima bansos
+Esti Simbolon;3200685682776920;Bekasi;Kalimantan Timur;12/19/1983;41;Karyawan;" Rp1;000;000 ";4;1;1;0;0;1;1;Tidak menerima bansos
+Setya Idayanto;3200285487350680;Malang;Jawa Timur;4/4/1991;34;Petani;" Rp1;000;000 ";7;1;3;1;0;1;3;Tidak menerima bansos
+Titi Kurniawan;3200030544161120;Semarang;Jawa Tengah;2/2/1967;58;Karyawan;" Rp1;000;000 ";4;0;1;1;0;1;1;Tidak menerima bansos
+Maya Budiyanto;3200284780467730;Palembang;Sumatera Selatan;4/29/1983;42;Petani;" Rp500;000 ";7;1;2;1;2;0;3;Tidak menerima bansos
+Jane Jailani;3200766730459350;Bekasi;Kalimantan Timur;7/25/1962;62;Karyawan;" Rp1;500;000 ";4;0;1;2;0;0;1;Tidak menerima bansos
+Endra Mansur;3200895101120610;Bpp;Kalimantan Timur;5/5/1964;61;Tidak Bekerja; Rp-   ;6;1;2;0;2;1;4;menerima bansos
+Mana Siregar;3200577996793230;Palangkaraya;Kalimantan Tengah;5/4/1972;53;Wiraswasta;" Rp2;000;000 ";5;1;1;2;0;1;3;Tidak menerima bansos
+Rcaraka Tamrin;3200756769904960;Surabaya;Jawa Timur;9/11/1999;25;Karyawan;" Rp2;000;000 ";6;1;1;1;1;1;3;Tidak menerima bansos
+Purwanto Waskita;3200502895226480;Surabaya;Jawa Timur;10/10/1998;26;Tidak Bekerja; Rp-   ;5;1;0;1;2;1;3;Tidak menerima bansos
+Agus Siregar;3200675397707610;Kendari;Sulawesi Tenggara;7/27/1974;50;Wiraswasta;" Rp1;500;000 ";4;0;2;0;0;2;2;Tidak menerima bansos
+Almira Artati;3200094482350270;Yogyakarta;DI Yogyakarta;9/9/1966;58;Petani;" Rp1;000;000 ";6;1;2;1;0;2;3;Tidak menerima bansos
+Nilam Suartini;3200657425511080;Makassar;Sulawesi Selatan;8/13/1965;59;Petani;" Rp1;000;000 ";3;0;1;0;2;0;1;Tidak menerima bansos
+Marsudi Kuswandari;3200621382435890;Bekasi;Kalimantan Timur;1/19/1989;36;Tidak Bekerja; Rp-   ;8;0;2;2;2;2;5;menerima bansos
+Luwar Gunarto;3200733358814690;Pontianak;Kalimantan Barat;10/15/1987;37;Petani;" Rp1;000;000 ";7;0;2;2;1;2;5;menerima bansos
+Maria Nasyida;3200327092123380;Yogyakarta;DI Yogyakarta;2/14/2000;25;Petani;" Rp2;100;000 ";4;1;0;2;1;0;2;Tidak menerima bansos
+Gasti Prakasa;3200595327540620;Manokwari;Papua Barat;3/18/1984;41;Tidak Bekerja; Rp-   ;5;0;2;2;0;1;4;menerima bansos
+Krosman Wijaya;3200065053784190;Manado;Sulawesi Utara;8/23/1987;37;Karyawan;" Rp500;000 ";6;1;2;0;2;0;3;Tidak menerima bansos
+Okto Uyaina;3200927543452010;Pontianak;Kalimantan Barat;4/20/1988;37;Wiraswasta;" Rp500;000 ";9;1;3;2;0;2;4;menerima bansos
+Jabal Manullang;3200482302477460;Semarang;Jawa Tengah;3/29/1971;54;Petani;" Rp500;000 ";8;1;2;2;2;0;4;menerima bansos
+Talia Maulana;3200452616475420;Bekasi;Kalimantan Timur;1/14/1957;68;Karyawan;" Rp2;000;000 ";9;1;1;2;2;2;4;menerima bansos
+Bagas Usada;3200374556753470;Pontianak;Kalimantan Barat;4/28/1966;59;Tidak Bekerja; Rp-   ;4;1;1;2;0;0;1;Tidak menerima bansos
+Eka Prakasa;3200215666068270;Makassar;Sulawesi Selatan;12/28/1981;43;Wiraswasta;" Rp500;000 ";4;1;0;1;1;0;1;Tidak menerima bansos
+Garda Prasetyo;3200158750624660;Palangka Raya;Kalimantan Tengah;2/25/1978;47;Tidak Bekerja; Rp-   ;5;1;2;0;0;2;3;Tidak menerima bansos
+Qori Sirait;3200308276424320;Banjarmasin;Kalimantan Selatan;4/27/1977;48;Petani;" Rp500;000 ";6;1;2;2;0;0;3;Tidak menerima bansos
+Tirta Prasetyo;3200101517522120;Semarang;Jawa Tengah;8/25/1977;47;Karyawan;" Rp1;500;000 ";4;0;2;1;0;1;2;Tidak menerima bansos
+Wawan Budiman;3200861866063890;Kendari;Sulawesi Tenggara;3/19/1986;39;Karyawan;" Rp500;000 ";6;0;1;2;0;2;3;Tidak menerima bansos
+Ajiono Namaga;3200361833602060;Padang;Sumatera Barat;11/6/1997;27;Petani;" Rp500;000 ";7;1;1;2;1;1;4;menerima bansos
+Aisya Marpaung;3200545766455620;Merauke;Papua Selatan;11/3/1974;50;Buru;" Rp500;000 ";5;0;1;2;2;0;3;Tidak menerima bansos
+Damu Ramawati;3200945152794080;Bogor;Kalimantan Timur;3/26/1957;68;Buru;" Rp2;800;000 ";6;1;3;1;1;0;3;Tidak menerima bansos
+Azalea Winarno;3200448636857580;Semarang;Jawa Tengah;12/7/1957;67;Petani;" Rp1;500;000 ";7;1;1;1;2;1;3;Tidak menerima bansos
+Puji Namaga;3200174363499330;Pekanbaru;Riau;4/17/1995;30;Wiraswasta;" Rp2;000;000 ";4;0;3;0;0;1;2;Tidak menerima bansos
+Purwa Waskita;3200174173760930;Bppn;Kalimantan Timur;10/9/1987;37;Buru;" Rp500;000 ";2;1;0;0;0;0;0;Tidak menerima bansos
+Titi Mardiya;3200461320656000;Palangka Raya;Kalimantan Tengah;8/14/1974;50;Petani;" Rp2;000;000 ";7;1;3;2;0;1;4;menerima bansos
+Jarwadi Usama;3200080519196340;Bandung;Jawa Barat;10/8/1971;53;Petani;" Rp1;500;000 ";5;1;0;2;1;1;4;menerima bansos
+Ica Iswayudi;3200091094135720;Medan;Sumatera Utara;2/19/1970;55;Buru;" Rp1;000;000 ";6;1;1;1;2;1;3;Tidak menerima bansos
+Victoria Winarsi;3200482962223970;Palembang;Sumatera Selatan;8/21/1985;39;Wiraswasta;" Rp500;000 ";5;0;2;0;0;2;3;Tidak menerima bansos
+Jaiman Kuswandari;3200707662018490;Jambi;Jambi;2/13/1966;59;Petani;" Rp2;000;000 ";3;0;0;0;2;0;1;Tidak menerima bansos
+Tania Puspita;3200533968407600;Merauke;Papua Selatan;3/30/1973;52;Tidak Bekerja; Rp-   ;5;0;3;1;0;0;2;Tidak menerima bansos
+Wisnu Firmansya;3200472317309060;Lampung;Lampung;10/13/1984;40;Karyawan;" Rp1;200;000 ";8;0;3;2;1;1;5;menerima bansos
+Zalindra Kuswoyo;3200964566343960;Yogyakarta;DI Yogyakarta;11/29/1982;42;Karyawan;" Rp4;200;000 ";9;0;3;2;2;1;6;menerima bansos
+Airyanto Siregar;3200544871317150;Semarang;Jawa Tengah;1/1/1977;48;Karyawan;" Rp3;300;000 ";2;1;0;0;0;0;1;Tidak menerima bansos
+Dimaz Narpati;3200546949855990;Bengkulu;Kalimantan Timur;4/1/1999;26;Petani;" Rp439;000 ";3;0;1;1;0;0;0;Tidak menerima bansos
+Najwa Saefulla;3200448831520540;Malang;Jawa Timur;3/2/1955;70;Petani;" Rp1;500;000 ";5;1;0;0;2;1;3;Tidak menerima bansos
+Alika Marpaung;3200091489579720;Samarinda;Kalimantan Timur;11/4/1958;66;Wiraswasta;" Rp500;000 ";6;0;3;0;0;2;3;Tidak menerima bansos
+Jarwa Aryanto;3200470128163000;Bekasi;Kalimantan Timur;2/8/1963;62;Karyawan;" Rp1;000;000 ";5;0;3;0;0;2;3;Tidak menerima bansos
+Rkariman Alima;3200277727505030;Kendari;Sulawesi Tenggara;7/2/1993;32;Tidak Bekerja; Rp-   ;4;0;0;2;0;1;2;Tidak menerima bansos
+Treksa Wulandari;3200284987187260;Semarang;Jawa Tengah;7/13/1973;51;Tidak Bekerja; Rp-   ;5;0;2;0;1;1;4;menerima bansos
+Umi Suryono;3200186571417150;Pontianak;Kalimantan Barat;5/1/1972;53;Petani;" Rp1;500;000 ";4;0;1;1;1;1;2;Tidak menerima bansos
+Talia Tamba;3200917615656190;Jayapura;Papua;11/8/1966;58;Karyawan;" Rp2;000;000 ";3;0;0;1;0;1;1;Tidak menerima bansos
+Enteng Saragi;3200962714087690;Manado;Sulawesi Utara;12/16/1986;38;Buru;" Rp1;500;000 ";2;0;0;0;1;0;1;Tidak menerima bansos
+Janet Lailasari;3200880842369690;Pekanbaru;Riau;7/14/1978;46;Wiraswasta;" Rp500;000 ";5;0;1;1;1;1;3;Tidak menerima bansos
+Sutan Bakiono Dongoran;3200082851413170;Makassar;Sulawesi Selatan;1/23/1959;66;Karyawan;" Rp1;500;000 ";7;0;2;2;2;1;5;menerima bansos
+Tantri Saefulla;3200493144256510;Pontianak;Kalimantan Barat;11/10/1987;37;Karyawan;" Rp2;000;000 ";1;1;0;0;0;0;0;Tidak menerima bansos
+Setya Kuswandari;3200888309185590;Lampung;Lampung;4/2/1995;30;Karyawan;" Rp1;500;000 ";6;0;1;0;2;2;3;Tidak menerima bansos
+Karma Padmasari;3200826613866870;Medan;Sumatera Utara;5/18/1960;65;Wiraswasta;" Rp1;500;000 ";6;0;2;0;1;2;4;menerima bansos
+Lukita Situmorang;3200282491026930;Palangkaraya;Kalimantan Tengah;3/30/1995;30;Petani;" Rp500;000 ";3;0;0;2;0;0;1;Tidak menerima bansos
+Edi Wacana;3200496410429200;Medan;Sumatera Utara;6/4/1979;46;Tidak Bekerja; Rp-   ;6;1;3;0;0;1;3;Tidak menerima bansos
+Silvia Megantara;3200296986519790;Palembang;Sumatera Selatan;8/5/1978;46;Petani;" Rp2;000;000 ";6;1;1;0;2;1;3;Tidak menerima bansos
+Maimuna Wulandari;3200175604178240;Padang;Sumatera Barat;8/30/1995;29;Tidak Bekerja; Rp-   ;3;1;0;0;1;0;1;Tidak menerima bansos
+Banawi Maulana;3200831442045250;Manokwari;Papua Barat;6/12/1978;47;Buru;" Rp2;000;000 ";4;1;2;0;0;1;2;Tidak menerima bansos
+Cager Winarno;3200969698106590;Depok;Jawa Barat;6/9/1987;38;Wiraswasta;" Rp1;500;000 ";7;0;2;2;2;0;4;menerima bansos
+Opung Andriani;3200476469903640;Semarang;Jawa Tengah;1/3/1993;32;Petani;" Rp500;000 ";6;0;2;2;2;0;4;menerima bansos
+Gaiman Oktaviani;3200229359001850;Lampung;Lampung;11/15/1991;33;Karyawan;" Rp1;500;000 ";5;1;1;1;1;1;3;Tidak menerima bansos
+Kempluk Siombing;3200034030599400;Bengkulu;Kalimantan Timur;9/11/1959;65;Karyawan;" Rp2;000;000 ";4;1;2;0;1;0;2;Tidak menerima bansos
+Martana Dabukke;3200482194295000;Merauke;Papua Selatan;9/26/1977;47;Buru;" Rp1;000;000 ";5;1;0;2;2;0;3;Tidak menerima bansos
+Daru Nasiruddin;3200596316329490;Bengkulu;Kalimantan Timur;3/12/1963;62;Buru;" Rp2;000;000 ";5;0;3;0;1;1;4;menerima bansos
+Wira Nugroo;3200076636911440;Semarang;Jawa Tengah;1/24/1980;45;Karyawan;" Rp500;000 ";7;0;2;2;2;0;4;menerima bansos
+Gabriella Astuti;3200682637782110;Yogyakarta;DI Yogyakarta;3/17/1977;48;Tidak Bekerja; Rp-   ;11;1;3;2;2;2;5;menerima bansos
+Gali Megantara;3200196527068630;Merauke;Papua Selatan;12/27/1980;44;Buru;" Rp1;000;000 ";9;1;3;1;2;1;4;menerima bansos
+Janet Zulkarnain;3200096303331090;Bengkulu;Kalimantan Timur;12/30/1980;44;Petani;" Rp1;500;000 ";8;1;0;2;2;2;4;menerima bansos
+Jarwi Wastuti;3200554705705240;Bekasi;Kalimantan Timur;6/24/1959;66;Wiraswasta;" Rp1;500;000 ";2;0;0;0;2;0;1;Tidak menerima bansos
+Genta Aryani;3200189360262380;Palangka Raya;Kalimantan Tengah;7/6/1990;34;Wiraswasta;" Rp1;500;000 ";6;1;0;2;1;2;4;menerima bansos
+Puti Tina Puspita;3200924653729460;Pekanbaru;Riau;4/19/1964;61;Karyawan;" Rp500;000 ";5;0;2;1;1;0;3;Tidak menerima bansos
+Restu Nuraini;3200007907086800;Palangka raya;Kalimantan Tengah;7/27/1996;28;Karyawan;" Rp2;000;000 ";5;0;2;0;0;2;3;Tidak menerima bansos
+Cayadi Winarsi;3200555102721760;Balikppn;Kalimantan Timur;3/9/1969;56;Karyawan;" Rp500;000 ";8;0;2;2;1;2;5;menerima bansos
+Lukman Permata;3200570081745620;Merauke;Papua Selatan;9/3/2000;24;Petani;" Rp1;200;000 ";6;0;3;1;0;1;3;Tidak menerima bansos
+Zulfa Firmansya;3200899272062570;Malang;Jawa Timur;6/7/1980;45;Wiraswasta;" Rp1;500;000 ";6;1;0;1;2;2;3;Tidak menerima bansos
+Lidya Maryadi;3200871869141570;Sorong;Papua Barat;7/6/1970;54;Buru;" Rp1;000;000 ";7;0;3;2;1;1;5;menerima bansos
+Dariati Maendra;3200931098865070;Samarinda;Kalimantan Timur;12/6/1987;37;Karyawan;" Rp1;500;000 ";5;0;3;0;0;2;3;Tidak menerima bansos
+Ilda Waluyo;3200221095443710;Lampung;Lampung;5/19/1984;41;Wiraswasta;" Rp2;000;000 ";3;0;2;0;0;0;1;Tidak menerima bansos
+Silvia Nainggolan;3200225700089520;Semarang;Jawa Tengah;2/11/1989;36;Tidak Bekerja; Rp-   ;6;0;3;1;1;0;3;Tidak menerima bansos
+Jelita Utapea;3200196125337010;Pekanbaru;Riau;1/21/1999;26;Petani;" Rp2;000;000 ";8;0;3;1;2;2;4;menerima bansos
+Belinda Wibisono.;3200846674461560;Gorontalo;Gorontalo;10/10/1971;53;Karyawan;" Rp2;000;000 ";6;0;3;2;0;1;4;menerima bansos
+Bagus Wibisono;3200722196564430;Palu;Sulawesi Tengah;3/18/1970;55;Tidak Bekerja; Rp-   ;6;1;0;2;0;2;3;Tidak menerima bansos
+Galar Usada;3200426309108210;Jambi;Jambi;6/1/1971;54;Petani;" Rp1;000;000 ";8;0;2;2;2;2;5;menerima bansos
+Kemal Tarioran;3200880788218010;Palembang;Sumatera Selatan;8/15/1989;35;Petani;" Rp1;500;000 ";2;0;0;0;1;0;1;Tidak menerima bansos
+Micelle Utapea;3200319973825540;Samarinda;Kalimantan Timur;12/9/1974;50;Karyawan;" Rp2;000;000 ";6;1;2;1;1;1;4;menerima bansos
+Bala Firmansya;3200510187576350;Malang;Jawa Timur;8/9/1963;61;Petani;" Rp500;000 ";5;0;2;0;2;1;4;menerima bansos
+Kacung Irawan;3200116986658400;Jambi;Jambi;2/22/1990;35;Karyawan;" Rp1;000;000 ";5;0;1;2;1;1;4;menerima bansos
+Usyi Assana;3200329463303010;Makassar;Sulawesi Selatan;6/19/1998;27;Petani;" Rp2;000;000 ";4;1;2;1;0;0;1;Tidak menerima bansos
+Yuliana Nainggolan;3200028388531920;Palu;Sulawesi Tengah;11/17/1984;40;Tidak Bekerja; Rp-   ;4;0;1;1;2;0;1;Tidak menerima bansos
+Maimuna Sitompul;3200612849286400;Pekanbaru;Riau;4/17/1979;46;Buru;" Rp1;500;000 ";8;1;2;2;1;2;5;menerima bansos
+Balijan Samosir;3200070705117200;Pontianak;Kalimantan Barat;9/16/1970;54;Karyawan;" Rp500;000 ";6;1;2;1;1;0;3;Tidak menerima bansos
+Aisya Irawan;3200590650088510;Depok;Jawa Barat;7/23/1983;41;Wiraswasta;" Rp1;000;000 ";2;0;1;0;0;1;1;Tidak menerima bansos
+Anom Uwais;3200024247634470;Makassar;Sulawesi Selatan;12/5/1991;33;Karyawan;" Rp500;000 ";6;0;2;1;1;1;4;menerima bansos
+Jane Ardianto;3200088718699860;Padang;Sumatera Barat;3/21/1990;35;Karyawan;" Rp1;000;000 ";6;0;3;2;0;0;3;Tidak menerima bansos
+Galar Mansur;3200472970625510;Pekanbaru;Riau;2/21/1979;46;Buru;" Rp1;500;000 ";4;0;1;0;1;1;2;Tidak menerima bansos
+Puput Rajasa;3200173472918680;Malang;Jawa Timur;4/28/1998;27;Wiraswasta;" Rp1;000;000 ";5;0;0;2;0;2;3;Tidak menerima bansos
+Ana Laksmiwati;3200032204229500;Pontianak;Kalimantan Barat;6/5/1970;55;Petani;" Rp2;000;000 ";6;1;1;0;2;1;3;Tidak menerima bansos
+Garda Simbolon;3200483277009130;Palu;Sulawesi Tengah;4/2/1981;44;Buru;" Rp1;000;000 ";4;0;2;2;0;0;2;Tidak menerima bansos
+Zulaika Aryanto.;3200587637551430;Bogor;Kalimantan Timur;6/3/1973;52;Petani;" Rp1;000;000 ";5;0;0;2;0;2;3;Tidak menerima bansos
+Luwar Yolanda.;3200539443782450;Lampung;Lampung;6/16/1991;34;Karyawan;" Rp2;000;000 ";4;1;2;0;0;1;2;Tidak menerima bansos
+Puti Gasti Sitorus;3200792805178610;Merauke;Papua Selatan;4/29/1982;43;Karyawan;" Rp1;500;000 ";5;1;0;1;2;0;2;Tidak menerima bansos
+Baktiono Tamrin;3200006704917870;Jayapura;Papua;9/12/1969;55;Karyawan;" Rp2;000;000 ";6;1;3;0;0;1;3;Tidak menerima bansos
+Kambali Mayasari;3200237104555230;Bekasi;Kalimantan Timur;8/11/1970;54;Karyawan;" Rp1;500;000 ";7;1;2;2;1;1;5;menerima bansos
+Danu Winarno;3200773918368040;Bekasi;Kalimantan Timur;7/13/1979;45;Petani;" Rp2;000;000 ";4;1;0;0;2;1;2;Tidak menerima bansos
+Tina Siombing;3200919202484560;Manado;Sulawesi Utara;11/17/1981;43;Tidak Bekerja; Rp-   ;4;0;1;2;1;0;2;Tidak menerima bansos
+Asirwada Kuswoyo;3200853451348900;Padang;Sumatera Barat;10/16/1975;49;Tidak Bekerja; Rp-   ;7;0;3;0;2;2;4;menerima bansos
+Racel Setiawan;3200826512206020;Banjarmasin;Kalimantan Selatan;1/23/1975;50;Petani;" Rp1;500;000 ";8;0;3;2;1;2;5;menerima bansos
+Nurul Wibowo;3200561907132560;Semarang;Jawa Tengah;8/15/1965;59;Tidak Bekerja; Rp-   ;6;1;3;0;1;1;4;menerima bansos
+Nadine Idayanto;3200289513127240;Manado;Sulawesi Utara;1/22/1988;37;Tidak Bekerja; Rp-   ;7;1;3;2;1;0;4;menerima bansos
+Tami Marpaung;3200426211477060;Malang;Jawa Timur;11/29/1991;33;Buru;" Rp1;000;000 ";5;0;2;2;0;1;4;menerima bansos
+Betania Widiastuti;3200427796917930;Banjarmasin;Kalimantan Selatan;1/13/1992;33;Wiraswasta;" Rp1;500;000 ";5;0;0;2;0;2;3;Tidak menerima bansos
+Sutan Danuja Nasiruddin;3200278610280940;Medan;Sumatera Utara;4/27/1976;49;Tidak Bekerja; Rp-   ;7;0;3;1;1;2;4;menerima bansos
+Empluk Gunarto;3200119269104730;Palu;Sulawesi Tengah;7/2/1990;35;Tidak Bekerja; Rp-   ;4;1;2;0;1;0;2;Tidak menerima bansos
+Tasdik Narpati;3200489152850090;Kendari;Sulawesi Tenggara;2/23/1979;46;Wiraswasta;" Rp1;500;000 ";3;0;0;1;1;1;2;Tidak menerima bansos
+Vino Sitorus;3200419330892710;Malang;Jawa Timur;1/9/1987;38;Karyawan;" Rp1;000;000 ";7;1;2;0;2;1;4;menerima bansos
+Jabal Marbun;3200017037246120;Manokwari;Papua Barat;6/22/1997;28;Petani;" Rp1;500;000 ";5;1;0;2;1;0;3;Tidak menerima bansos
+Jelita Mandasari;3200532804035390;Malang;Jawa Timur;6/15/1974;51;Karyawan;" Rp2;000;000 ";2;1;1;0;0;0;0;Tidak menerima bansos
+Rati Tamrin;3200254380987220;Balikpapan;Kalimantan Timur;11/27/1955;69;Buru;" Rp1;500;000 ";6;1;2;0;1;2;4;menerima bansos
+Siska Winarsi;3200152147081270;Jayapura;Papua;11/16/1982;42;Wiraswasta;" Rp2;000;000 ";4;0;0;2;1;1;3;Tidak menerima bansos
+Nova Kusumo.;3200549774594000;Balikpapan;Kalimantan Timur;7/24/1981;43;Petani;" Rp1;000;000 ";7;0;2;2;0;2;4;menerima bansos
+Kajen Widodo;3200670472720520;Medan;Sumatera Utara;9/3/1974;50;Karyawan;" Rp500;000 ";4;1;0;1;1;0;1;Tidak menerima bansos
+Teddy Firgantoro;3200174541933290;Jambi;Jambi;2/26/1983;42;Tidak Bekerja; Rp-   ;5;0;0;2;1;2;4;menerima bansos
+Galar Puspasari;3200703580132720;Bengkulu;Kalimantan Timur;12/16/1997;27;Wiraswasta;" Rp2;000;000 ";6;0;3;1;0;2;3;Tidak menerima bansos
+Rmila Budiman;3200361311719100;Bandung;Jawa Barat;2/17/1977;48;Wiraswasta;" Rp1;500;000 ";8;1;2;2;1;1;5;menerima bansos
+Intan Simanjuntak;3200381045595980;Padang;Sumatera Barat;11/29/1995;29;Karyawan;" Rp500;000 ";7;0;2;2;2;0;4;menerima bansos
+Agnes Yuniar;3200971029855010;Pontianak;Kalimantan Barat;7/18/1984;40;Tidak Bekerja; Rp-   ;5;1;0;2;2;0;3;Tidak menerima bansos
+Vera Marpaung;3200630986338190;Bogor;Kalimantan Timur;3/2/1987;38;Wiraswasta;" Rp1;000;000 ";6;1;0;0;2;2;3;Tidak menerima bansos
+Zalindra Laksmiwati;3200260825716250;Samarinda;Kalimantan Timur;3/25/1970;55;Buruh;" Rp1;000;000 ";3;0;0;0;1;1;2;Tidak menerima bansos
+Janet Salaudin;3200739762458910;Lampung;Lampung;7/22/1956;68;Wiraswasta;" Rp1;500;000 ";8;0;2;1;2;2;4;menerima bansos
+Limar Sinaga;3200694825518200;Jambi;Jambi;1/16/1963;62;Karyawan;" Rp2;000;000 ";5;1;1;1;1;0;2;Tidak menerima bansos
+Irfan Sudiati;3200379506262920;Palembang;Sumatera Selatan;9/19/1978;46;Wiraswasta;" Rp2;000;000 ";9;1;3;2;0;2;4;menerima bansos
+Bakiman Idayat;3200478656445560;Pekanbaru;Riau;8/10/1988;36;Petani;" Rp2;000;000 ";7;1;3;2;0;1;4;menerima bansos
+Nilam Ardiansya;3200897460171450;Malang;Jawa Timur;8/7/1980;44;Buru;" Rp1;500;000 ";5;1;0;2;1;1;4;menerima bansos
+Lalita Firmansya;3200150054786440;Manokwari;Papua Barat;6/27/1974;51;Buru;" Rp2;000;000 ";9;0;2;2;2;2;5;menerima bansos
+Marwata Narpati;3200052041951510;Pekanbaru;Riau;6/20/1955;70;Karyawan;" Rp500;000 ";3;1;0;0;1;1;2;Tidak menerima bansos
+Taufan Wacana;3200322124472600;Malang;Jawa Timur;10/10/1972;52;Petani;" Rp1;000;000 ";5;0;2;1;0;1;3;Tidak menerima bansos
+Tina Melani;3200336189923660;Surabaya;Jawa Timur;12/18/1984;40;Petani;" Rp2;000;000 ";5;1;3;0;0;1;3;Tidak menerima bansos
+Zizi Anggraini;3200260614516870;Banjarmasin;Kalimantan Selatan;8/8/1998;26;Buru;" Rp2;000;000 ";7;1;3;2;0;1;4;menerima bansos
+Jono Nasyia;3200186740818590;Gorontalo;Gorontalo;1/13/1965;60;Buru;" Rp1;000;000 ";5;1;3;0;0;1;3;Tidak menerima bansos
+Gani Kusumo;3200180150858310;Bogor;Kalimantan Timur;6/25/1986;39;Karyawan;" Rp2;000;000 ";8;1;3;1;2;1;4;menerima bansos
+Dia Natsir;3200851981760060;Gorontalo;Gorontalo;12/19/1975;49;Tidak Bekerja; Rp-   ;5;1;1;1;0;2;2;Tidak menerima bansos
+Klukman Siotang;3200469615866970;Jambi;Jambi;4/19/1963;62;Wiraswasta;" Rp500;000 ";6;1;1;2;2;0;3;Tidak menerima bansos
+Ida Firgantoro;3200766978427740;Palu;Sulawesi Tengah;1/26/1978;47;Karyawan;" Rp2;000;000 ";6;0;1;0;2;2;3;Tidak menerima bansos
+Jasmin Gunawan;3200855573672850;Surabaya;Jawa Timur;6/14/1992;33;Karyawan;" Rp1;500;000 ";8;1;3;2;1;0;4;menerima bansos
+Jarwi Permadi;3200015902804790;Surabaya;Jawa Timur;1/4/1961;64;Petani;" Rp1;500;000 ";8;1;2;1;2;1;4;menerima bansos
+Elvina Nurdiyanti;3200564451444210;Medan;Sumatera Utara;7/1/1964;61;Petani;" Rp2;000;000 ";7;0;3;0;1;2;4;menerima bansos
+Gabriella Marpaung;3200520650746720;Balikpapan;Kalimantan Timur;4/28/1955;70;Buru;" Rp2;000;000 ";6;0;3;0;0;2;3;Tidak menerima bansos
+Tgkirsad Mansur;3200074916106610;Palembang;Sumatera Selatan;5/30/1956;69;Tidak Bekerja; Rp-   ;6;0;3;2;0;0;3;Tidak menerima bansos
+Puput Nasiruddin;3200473998606910;Bogor;Kalimantan Timur;8/4/1961;63;Buru;" Rp1;500;000 ";3;0;0;1;0;2;1;Tidak menerima bansos
+Karima Tamrin;3200737720972140;Kendari;Sulawesi Tenggara;5/12/1986;39;Buru;" Rp1;000;000 ";6;0;3;0;2;1;4;menerima bansos
+Padmi Santoso;3200650188597330;Bogor;Kalimantan Timur;6/5/1992;33;Tidak Bekerja; Rp-   ;4;0;2;1;1;0;2;Tidak menerima bansos
+Fara Ardiansya;3200260195677020;Pontianak;Kalimantan Barat;8/7/1963;61;Buru;" Rp500;000 ";2;0;1;0;0;0;0;Tidak menerima bansos
+Lalita Wayudin;3200682763689640;Jambi;Jambi;4/8/1987;38;Karyawan;" Rp1;500;000 ";6;0;3;2;1;0;4;menerima bansos
+Karima Budiman;3200107477933560;Bpp;Kalimantan Timur;7/7/1972;52;Wiraswasta;" Rp1;500;000 ";5;0;1;2;1;1;4;menerima bansos
+Luung Andriani;3200713845851050;Banjarmasin;Kalimantan Selatan;6/6/1984;41;Wiraswasta;" Rp1;000;000 ";4;0;0;2;1;1;3;Tidak menerima bansos
+Yoga Kusumo;3200987898278370;Pekanbaru;Riau;8/13/1957;67;Tidak Bekerja; Rp-   ;6;0;3;1;1;1;4;menerima bansos
+Paris Artati;3200575324898330;Kendari;Sulawesi Tenggara;10/9/1963;61;Wiraswasta;" Rp2;000;000 ";5;1;0;2;2;0;3;Tidak menerima bansos
+Kamila Sudiati;3200582691934250;Manokwari;Papua Barat;8/8/1977;47;Buru;" Rp1;500;000 ";0;0;0;0;0;0;0;Tidak menerima bansos
+Janet Safitri;3200470167998140;Gorontalo;Gorontalo;2/19/1995;30;Karyawan;" Rp1;000;000 ";5;1;2;0;2;0;3;Tidak menerima bansos
+Tgkpurwanto Siombing;3200773037512880;Semarang;Jawa Tengah;12/17/1974;50;Petani;" Rp1;000;000 ";3;1;1;0;1;0;1;Tidak menerima bansos
+Capa Abibi;3200417902724810;Gorontalo;Gorontalo;9/13/1985;39;Wiraswasta;" Rp2;000;000 ";3;0;0;2;0;1;2;Tidak menerima bansos
+Sara Maulana;3200262923115320;Palu;Sulawesi Tengah;2/16/1986;39;Buru;" Rp500;000 ";2;0;0;0;1;0;1;Tidak menerima bansos
+Puti Mala Suwarno;3200895129145420;Jambi;Jambi;1/22/1974;51;Karyawan;" Rp2;000;000 ";3;0;1;1;1;0;1;Tidak menerima bansos
+Jamalia Mandasari;3200064884362910;Medan;Sumatera Utara;12/24/1984;40;Petani;" Rp500;000 ";7;1;2;0;2;1;4;menerima bansos
+Ari Raayu;3200982270405940;Jambi;Jambi;3/25/1989;36;Wiraswasta;" Rp500;000 ";8;1;3;1;2;1;4;menerima bansos
+Nilam Pradipta;3200520527207800;Bogor;Kalimantan Timur;11/12/1959;65;Tidak Bekerja; Rp-   ;9;1;2;2;2;1;5;menerima bansos
+Aswani Prastuti;3200863121701410;Palangkaraya;Kalimantan Tengah;4/17/1979;46;Tidak Bekerja; Rp-   ;3;0;1;0;1;1;2;Tidak menerima bansos
+Aslijan Waluyo.;3200670222932090;Manokwari;Papua Barat;6/10/1968;57;Karyawan;" Rp500;000 ";2;0;1;0;0;0;0;Tidak menerima bansos
+Elma Nainggolan;3200478216174340;Semarang;Jawa Tengah;2/3/1967;58;Karyawan;" Rp1;000;000 ";3;0;0;1;1;1;2;Tidak menerima bansos
+Bajragin Tamba;3200257033557350;Yogyakarta;DI Yogyakarta;5/5/1967;58;Petani;" Rp2;000;000 ";6;1;1;1;2;1;3;Tidak menerima bansos
+Jamil Rajata;3200394891744580;Manado;Sulawesi Utara;6/13/1963;62;Petani;" Rp1;500;000 ";6;0;2;0;2;2;4;menerima bansos
+Putri Wastuti;3200741431390110;Gorontalo;Gorontalo;6/29/1979;46;Petani;" Rp1;500;000 ";4;0;1;2;0;0;1;Tidak menerima bansos
+Tgkpia Kuswoyo;3200739870683970;Bogor;Kalimantan Timur;9/11/1991;33;Buru;" Rp1;000;000 ";5;0;1;2;2;0;3;Tidak menerima bansos
+Yoga Maeswara;3200038150770970;Lampung;Lampung;3/7/1960;65;Tidak Bekerja; Rp-   ;5;1;1;1;1;1;3;Tidak menerima bansos
+Cut Ica Irawan;3200097125811310;Yogyakarta;DI Yogyakarta;12/10/1963;61;Tidak Bekerja; Rp-   ;3;0;2;0;0;0;1;Tidak menerima bansos
+Talia Winarsi;3200202925864700;Yogyakarta;DI Yogyakarta;6/25/1962;63;Petani;" Rp1;000;000 ";10;1;3;2;2;2;5;menerima bansos
+Cakrajiya Nasiruddin;3200569158260460;Malang;Jawa Timur;10/5/1980;44;Petani;" Rp1;000;000 ";7;0;2;2;1;2;5;menerima bansos
+Rafi Januar;3200107233294910;Merauke;Papua Selatan;1/19/1993;32;Petani;" Rp500;000 ";7;1;2;2;2;0;4;menerima bansos
+Jarwi Saputra;3200739724553780;Bogor;Kalimantan Timur;9/27/1978;46;Buru;" Rp1;500;000 ";8;0;3;1;1;2;4;menerima bansos
+Bakidin Nugroo;3200737248727640;Malang;Jawa Timur;2/11/1999;26;Tidak Bekerja; Rp-   ;6;1;0;2;1;2;4;menerima bansos
+Jaswadi Siregar;3200210429451010;Gorontalo;Gorontalo;10/4/1977;47;Petani;" Rp500;000 ";7;1;2;1;0;2;3;Tidak menerima bansos
+Jayadi Laksita;3200523179261020;Pontianak;Kalimantan Barat;3/13/1996;29;Tidak Bekerja; Rp-   ;8;1;2;1;2;1;4;menerima bansos
+Uli Yulianti;3200899361198340;Bengkulu;Kalimantan Timur;4/29/1966;59;Buru;" Rp1;500;000 ";5;0;0;1;2;1;3;Tidak menerima bansos
+Kalim Najmudin;3200341431864950;Jayapura;Papua;3/23/1959;66;Wiraswasta;" Rp2;000;000 ";4;0;1;2;1;0;2;Tidak menerima bansos
+Tgkgina Anggriawan;3200098997153950;Gorontalo;Gorontalo;5/23/1985;40;Petani;" Rp2;000;000 ";7;1;2;1;0;2;3;Tidak menerima bansos
+Samia Raayu;3200413026238170;Bandung;Jawa Barat;4/14/1999;26;Tidak Bekerja; Rp-   ;7;0;3;1;2;1;4;menerima bansos
+Gadu Yuliarti;3200067379719510;Samarinda;Kalimantan Timur;4/17/1986;39;Karyawan;" Rp1;500;000 ";5;0;0;2;1;1;4;menerima bansos
+Zamira Marbun;3200053243220050;Manokwari;Papua Barat;12/13/1966;58;Tidak Bekerja; Rp-   ;3;1;0;0;0;1;1;Tidak menerima bansos
+Sutan Gamanto Suartini;3200168363172450;Jambi;Jambi;6/11/1969;56;Karyawan;" Rp2;000;000 ";8;0;3;1;2;2;4;menerima bansos
+Madinata Susanti;3200365875939860;Palembang;Sumatera Selatan;10/8/1996;28;Wiraswasta;" Rp2;000;000 ";5;0;2;2;1;0;4;menerima bansos
+Cici Zulkarnain;3200944132465570;Balikpapan;Kalimantan Timur;8/20/1971;53;Petani;" Rp2;000;000 ";3;1;0;0;2;0;1;Tidak menerima bansos
+Eko Siotang;3200973671740810;Semarang;Jawa Tengah;9/14/1996;28;Tidak Bekerja; Rp-   ;9;1;3;2;2;1;5;menerima bansos
+Ciaobella Mardiya;3200791679978560;Palembang;Sumatera Selatan;3/14/1962;63;Buru;" Rp500;000 ";6;1;3;0;1;0;3;Tidak menerima bansos
+Vivi Siregar;3200994511397830;Palu;Sulawesi Tengah;11/8/1971;53;Petani;" Rp1;500;000 ";8;1;2;1;1;2;4;menerima bansos
+Suci Mustofa;3200642422562250;Bogor;Kalimantan Timur;4/15/1964;61;Buru;" Rp1;000;000 ";5;0;1;1;1;2;3;Tidak menerima bansos
+Gasti Kusmawati;3200178062096770;Bandung;Jawa Barat;5/23/1972;53;Karyawan;" Rp2;000;000 ";7;0;1;1;2;2;3;Tidak menerima bansos
+Kayun Situmorang;3200491544973130;Pekanbaru;Riau;2/3/1962;63;Petani;" Rp500;000 ";3;1;1;0;0;1;1;Tidak menerima bansos
+Dinda Salaudin;3200802033657350;Jayapura;Papua;2/18/1993;32;Petani;" Rp500;000 ";6;1;0;0;2;2;3;Tidak menerima bansos
+Karja Kuswoyo;3200495016607320;Pekanbaru;Riau;4/7/1976;49;Buru;" Rp2;000;000 ";4;1;1;0;1;0;1;Tidak menerima bansos
+Tami Wibowo;3200850516406220;Palembang;Sumatera Selatan;7/5/1969;55;Karyawan;" Rp1;000;000 ";7;1;3;0;0;2;3;Tidak menerima bansos
+Rusman Putra;3200757712781980;Bandung;Jawa Barat;9/2/1991;33;Karyawan;" Rp1;500;000 ";3;1;2;0;0;0;1;Tidak menerima bansos
+Janet Uwais;3200751373912780;Bandung;Jawa Barat;5/30/1999;26;Karyawan;" Rp2;000;000 ";8;0;2;2;2;2;5;menerima bansos
+Kasirwanda Lestari;3200613137513210;Yogyakarta;DI Yogyakarta;7/9/1970;54;Buruh;" Rp1;000;000 ";7;0;3;1;2;1;4;menerima bansos
+Cakrawala Waskita;3200493147324160;Samarinda;Kalimantan Timur;6/15/1984;41;Buruh;" Rp1;500;000 ";6;1;3;2;0;0;3;Tidak menerima bansos
+Janet Aryanto;3200698083127310;Jayapura;Papua;9/15/1993;31;Petani;" Rp1;500;000 ";9;1;3;1;2;1;4;menerima bansos
+Tari Puspita;3200345051297600;Banjarmasin;Kalimantan Selatan;1/11/1994;31;Wiraswasta;" Rp1;000;000 ";5;1;0;2;2;0;3;Tidak menerima bansos
+Nilam Damanik;3200119036894770;Manado;Sulawesi Utara;8/18/1968;56;Buruh;" Rp1;000;000 ";6;1;2;2;1;0;4;menerima bansos
+Ade Wacana;3200381519969450;Medan;Sumatera Utara;2/10/1974;51;Petani;" Rp2;000;000 ";9;1;3;2;1;2;5;menerima bansos
+Ellis Manullang;3200973850957850;Sorong;Papua Barat;9/17/1980;44;Wiraswasta;" Rp1;000;000 ";2;0;0;0;0;2;1;Tidak menerima bansos
+Safina Salaudin;3200007421444770;Pekanbaru;Riau;3/27/1982;43;Wiraswasta;" Rp1;500;000 ";5;1;0;2;0;2;3;Tidak menerima bansos
+Tami Suryono;3200234926625870;Malang;Jawa Timur;11/12/1955;69;Wiraswasta;" Rp2;000;000 ";8;1;2;1;1;2;4;menerima bansos
+Ardi Agustina;3200507923970840;Kendari;Sulawesi Tenggara;3/18/1987;38;Karyawan;" Rp1;500;000 ";3;0;0;1;1;0;1;Tidak menerima bansos
+Julia Lailasari;3200810730290390;Lampung;Lampung;5/30/1962;63;Tidak Bekerja; Rp-   ;7;0;2;1;2;1;4;menerima bansos
+Keisa Sinaga;3200400790974320;Medan;Sumatera Utara;1/4/1993;32;Wiraswasta;" Rp2;000;000 ";9;1;3;2;2;0;4;menerima bansos
+Lanjar Andayani;3200296436845600;Balikpapn;Kalimantan Timur;3/27/1972;53;Tidak Bekerja; Rp-   ;3;1;0;0;2;0;1;Tidak menerima bansos
+Puti Puspa Nasiruddin;3200714859142130;Samarinda;Kalimantan Timur;4/3/1996;29;Karyawan;" Rp500;000 ";4;0;0;0;2;1;2;Tidak menerima bansos
+Damar Marbun;3200256620610250;Yogyakarta;DI Yogyakarta;4/25/1995;30;Petani;" Rp2;000;000 ";4;0;1;0;1;1;2;Tidak menerima bansos
+Sutan Viktor Simanjuntak;3200104490195780;Yogyakarta;DI Yogyakarta;7/9/1957;67;Tidak Bekerja; Rp-   ;5;1;0;1;0;2;2;Tidak menerima bansos
+Tgkcinta Anggriawan;3200295484260780;Pontianak;Kalimantan Barat;4/5/1957;68;Petani;" Rp2;000;000 ";0;0;0;0;0;0;0;Tidak menerima bansos
+Fara Siombing;3200284225136590;Pekanbaru;Riau;8/8/1956;68;Karyawan;" Rp1;000;000 ";9;1;2;1;2;2;4;menerima bansos
+Ratna Widodo;3200089816483920;Kendari;Sulawesi Tenggara;6/30/1964;61;Tidak Bekerja; Rp-   ;5;0;3;0;0;2;3;Tidak menerima bansos
+Mujur Astuti;3200842883567330;Balikpapan;Kalimantan Timur;6/24/2000;25;Wiraswasta;" Rp1;500;000 ";6;0;3;0;1;1;4;menerima bansos
+Melinda Siombing;3200267372711740;Bengkulu;Kalimantan Timur;12/17/1975;49;Wiraswasta;" Rp500;000 ";6;1;1;2;1;1;4;menerima bansos
+Qori Gunarto;3200927453309280;Jayapura;Papua;2/13/1994;31;Tidak Bekerja; Rp-   ;1;0;1;0;0;0;0;Tidak menerima bansos
+Paiman Anggriawan;3200840546164300;Lampung;Lampung;11/8/1999;25;Petani;" Rp1;500;000 ";5;1;0;1;0;2;2;Tidak menerima bansos
+Eka Sitorus;3200349031012270;Padang;Sumatera Barat;7/12/1973;51;Wiraswasta;" Rp500;000 ";7;1;1;1;2;2;3;Tidak menerima bansos
+Yusuf Simanjuntak;3200710612690230;Jayapura;Papua;9/11/1973;51;Tidak Bekerja; Rp-   ;6;1;2;1;0;2;3;Tidak menerima bansos
+Rrini Mayasari;3200294377331870;Makassar;Sulawesi Selatan;12/17/1962;62;Petani;" Rp1;500;000 ";5;1;3;0;1;0;3;Tidak menerima bansos
+Kasim Widodo;3200590551696850;Manado;Sulawesi Utara;7/23/1967;57;Karyawan;" Rp2;000;000 ";10;1;3;1;2;2;4;menerima bansos
+Cut Gina Putra;3200937953983100;Manokwari;Papua Barat;4/16/1968;57;Karyawan;" Rp1;500;000 ";4;0;2;2;0;0;2;Tidak menerima bansos
+Sabrina Adriansya;3200809294557560;Pekanbaru;Riau;9/30/1991;33;Tidak Bekerja; Rp-   ;9;0;3;1;2;2;4;menerima bansos
+Kprayoga Tampubolon;3200927772064980;Jayapura;Papua;2/11/1957;68;Tidak Bekerja; Rp-   ;6;0;3;2;0;1;4;menerima bansos
+Irfan Waskita;3200167366321500;Bogor;Kalimantan Timur;5/4/2000;25;Karyawan;" Rp2;000;000 ";6;1;2;2;1;0;4;menerima bansos
+Darmana Pangestu;3200382812316560;Pekanbaru;Riau;10/1/1997;27;Wiraswasta;" Rp2;000;000 ";5;0;1;1;2;1;3;Tidak menerima bansos
+Silvia Nurdiyanti;3200065638339830;Yogyakarta;DI Yogyakarta;3/21/1956;69;Karyawan;" Rp2;000;000 ";2;0;1;0;0;1;1;Tidak menerima bansos
+Puspa Siotang;3200905940895430;Palembang;Sumatera Selatan;4/12/1963;62;Karyawan;" Rp1;000;000 ";4;1;0;0;0;2;1;Tidak menerima bansos
+Ulya Winarno;3200091426140800;Bandung;Jawa Barat;11/23/1982;42;Wiraswasta;" Rp500;000 ";4;1;0;2;0;0;1;Tidak menerima bansos
+Mariadi Oktaviani;3200688014306570;Samarinda;Kalimantan Timur;9/2/1973;51;Wiraswasta;" Rp500;000 ";8;1;3;2;0;1;4;menerima bansos
+Arsanto Artati;3200406179202220;Manado;Sulawesi Utara;1/6/1973;52;Wiraswasta;" Rp2;000;000 ";2;0;1;1;0;0;0;Tidak menerima bansos
+Umar Megantara;3200726510231150;Bandung;Jawa Barat;10/5/1996;28;Karyawan;" Rp2;000;000 ";9;0;2;2;2;2;5;menerima bansos
+Alika Susanti;3200920098587040;Lampung;Lampung;4/12/1988;37;Karyawan;" Rp500;000 ";2;1;0;1;0;0;0;Tidak menerima bansos
+Balidin Yolanda;3200989377017990;Banjarmasin;Kalimantan Selatan;4/6/1978;47;Tidak Bekerja; Rp-   ;8;1;3;0;1;2;4;menerima bansos
+Ayu Abibi;3200263073193450;Gorontalo;Gorontalo;2/10/1960;65;Wiraswasta;" Rp500;000 ";8;1;2;2;2;0;4;menerima bansos
+Ida Usama;3200686073400500;Medan;Sumatera Utara;7/22/1955;69;Wiraswasta;" Rp1;200;000 ";6;1;0;1;2;1;3;Tidak menerima bansos
+Puti Rati Ardianto;3200668173997830;Kendari;Sulawesi Tenggara;12/5/1968;56;Buruh;" Rp2;000;000 ";3;0;1;0;1;1;2;Tidak menerima bansos
+Dadap Fujiati;3200941835894500;Medan;Sumatera Utara;9/29/1999;25;Buruh;" Rp1;000;000 ";7;1;2;0;2;2;4;menerima bansos
+Yance Aryanti;3200515275047320;Manokwari;Papua Barat;8/11/1958;66;Karyawan;" Rp2;000;000 ";9;1;3;2;2;1;5;menerima bansos
+Eman Irawan;3200245290362470;Pontianak;Kalimantan Barat;2/15/1960;65;Petani;" Rp1;500;000 ";8;0;2;1;2;2;4;menerima bansos
+Najib Saragi;3200441981404950;Padang;Sumatera Barat;1/22/1992;33;Buruh;" Rp1;200;000 ";5;1;1;1;1;0;2;Tidak menerima bansos
+Laswi Wasita;3200880572204280;Palangka Raya;Kalimantan Tengah;1/18/1957;68;Karyawan;" Rp1;200;000 ";4;0;0;2;1;0;2;Tidak menerima bansos
+Karya Damanik;3200252562903610;Malang;Jawa Timur;1/29/1975;50;Tidak Bekerja; Rp-   ;6;0;1;1;2;1;3;Tidak menerima bansos
+Lala Maryati;3200166059912850;Pekanbaru;Riau;11/16/1955;69;Buru;" Rp2;000;000 ";6;0;3;2;0;0;3;Tidak menerima bansos
+Almira Usada;3200303558298140;Samarinda;Kalimantan Timur;10/1/1967;57;Tidak Bekerja; Rp-   ;6;1;0;2;2;0;3;Tidak menerima bansos
+Kamidin Santoso;3200998660189640;Jayapura;Papua;4/22/1955;70;Tidak Bekerja; Rp-   ;5;1;1;0;1;2;3;Tidak menerima bansos
+Diana Fujiati;3200273937623640;Surabaya;Jawa Timur;5/7/1960;65;Karyawan;" Rp1;500;000 ";7;1;0;1;2;2;3;Tidak menerima bansos
+Alim Wastuti;3200233340576450;Jayapura;Papua;9/10/1995;29;Buru;" Rp500;000 ";7;0;1;2;1;2;4;menerima bansos
+Jagaraga Akim;3200220886128000;Banjarmasin;Kalimantan Selatan;4/9/1987;38;Tidak Bekerja; Rp-   ;4;1;2;1;0;0;1;Tidak menerima bansos
+Raayu Sudiati;3200826472129180;Palu;Sulawesi Tengah;12/6/1988;36;Tidak Bekerja; Rp-   ;7;0;2;2;0;2;4;menerima bansos
+Joko Utasoit.;3200791497850680;Sorong;Papua Barat;11/16/1955;69;Karyawan;" Rp1;000;000 ";7;1;3;2;1;0;4;menerima bansos
+Sutan Mursinin Nasiruddin;3200483783292160;Makassar;Sulawesi Selatan;12/13/1956;68;Buru;" Rp2;000;000 ";8;1;2;1;2;2;4;menerima bansos
+Cayono Widiastuti;3200654890933150;Semarang;Jawa Tengah;8/16/1973;51;Wiraswasta;" Rp1;800;000 ";6;1;1;0;2;2;3;Tidak menerima bansos
+Salima Abibi;3200277748463010;Balikpapan;Kalimantan Timur;2/14/1976;49;Buru;" Rp1;200;000 ";5;1;1;0;2;1;3;Tidak menerima bansos
+Karta Laksmiwati;3200989314347650;Makassar;Sulawesi Selatan;1/18/1985;40;Wiraswasta;" Rp500;000 ";9;0;3;2;2;2;5;menerima bansos
+Eka Utama;3200773499939070;Jayapura;Papua;1/16/1962;63;Buru;" Rp1;000;000 ";7;0;3;2;0;1;4;menerima bansos
+Adika Prakasa;3200126425329790;Lampung;Lampung;11/17/1997;27;Petani;" Rp2;000;000 ";4;0;2;0;1;1;3;Tidak menerima bansos
+Vivi Usada;3200358677625870;Manado;Sulawesi Utara;3/2/1967;58;Tidak Bekerja; Rp-   ;8;1;3;1;0;2;3;Tidak menerima bansos
+Zizi Januar;3200987758913050;Bpp;Kalimantan Timur;3/2/1987;38;Buru;" Rp1;500;000 ";6;1;1;1;1;1;3;Tidak menerima bansos
+Sutan Jono Nasyia;3200147669546720;Bengkulu;Kalimantan Timur;4/1/1967;58;Tidak Bekerja; Rp-   ;3;1;0;0;1;0;1;Tidak menerima bansos
+Tomi Januar;3200965742583570;Pekanbaru;Riau;6/21/1999;26;Petani;" Rp2;000;000 ";4;0;0;1;1;1;2;Tidak menerima bansos
+Edi Purwanti;3200418615444540;Makassar;Sulawesi Selatan;5/3/1967;58;Petani;" Rp1;500;000 ";9;1;3;1;2;1;4;menerima bansos
+Patricia Mangunsong;3200927307577890;Bogor;Kalimantan Timur;4/3/1964;61;Karyawan;" Rp3;000;000 ";3;0;0;1;1;0;1;Tidak menerima bansos
+Galur Andriani;3200220794956860;Kendari;Sulawesi Tenggara;8/10/1987;37;Buruh;" Rp500;000 ";4;1;1;0;1;0;1;Tidak menerima bansos
+Farunnisa Utasoit;3200064991687220;Padang;Sumatera Barat;9/9/1981;43;Buru;" Rp1;000;000 ";5;0;3;1;1;0;3;Tidak menerima bansos
+Sutan Daliono Prakasa;3200148386048330;Padang;Sumatera Barat;11/8/1967;57;Petani;" Rp1;000;000 ";3;1;1;0;0;1;1;Tidak menerima bansos
+Nurul Palastri;3200501478120300;Depok;Jawa Barat;5/12/1976;49;Tidak Bekerja; Rp-   ;8;1;1;2;1;2;4;menerima bansos
+Sari Suryatmi;3200844884435240;Bengkulu;Kalimantan Timur;12/18/1987;37;Petani;" Rp500;000 ";4;0;1;1;1;1;2;Tidak menerima bansos
+Paulin Budiman;3200325110949600;Malang;Jawa Timur;9/11/1988;36;Petani;" Rp1;000;000 ";7;0;2;2;2;1;5;menerima bansos
+Ika Budiman;3200167713774410;Sorong;Papua Barat;1/13/1967;58;Karyawan;" Rp1;500;000 ";5;0;3;2;0;0;3;Tidak menerima bansos
+Tedi Mandasari;3200602560437790;Bekasi;Kalimantan Timur;4/16/1987;38;Petani;" Rp500;000 ";4;1;0;2;0;1;2;Tidak menerima bansos
+Rangga Yulianti;3200996098707740;Yogyakarta;DI Yogyakarta;8/25/1978;46;Petani;" Rp2;000;000 ";7;0;2;2;2;0;4;menerima bansos
+Paiman Uwais;3200771342440310;Palangka Ry;Kalimantan Tengah;4/18/1973;52;Karyawan;" Rp1;500;000 ";3;0;1;0;0;2;1;Tidak menerima bansos
+Laswi Lestari;3200574473837020;Padang;Sumatera Barat;2/28/1957;68;Tidak Bekerja; Rp-   ;7;1;0;1;2;2;3;Tidak menerima bansos
+Wardaya Siotang.;3200462541657430;Surabaya;Jawa Timur;2/13/1955;70;Karyawan;" Rp1;000;000 ";9;0;3;1;2;2;4;menerima bansos
+Tgkwani Mardiya;3200284792992140;Banjarmasin;Kalimantan Selatan;6/4/1955;70;Wiraswasta;" Rp1;000;000 ";2;0;2;0;0;0;1;Tidak menerima bansos
+Raisa Raayu;3200046581914650;Bengkulu;Kalimantan Timur;2/3/1963;62;Petani;" Rp1;500;000 ";5;0;2;0;2;0;3;Tidak menerima bansos
+Kiandra Ardianto;3200621286919670;Jambi;Jambi;4/28/1974;51;Karyawan;" Rp1;500;000 ";4;1;1;0;1;1;2;Tidak menerima bansos
+Ardi Sitompul;3200769349338380;Makassar;Sulawesi Selatan;3/3/1976;49;Petani;" Rp2;000;000 ";6;0;1;0;2;2;3;Tidak menerima bansos
+Gabriella Ramawati;3200972010336970;Manado;Sulawesi Utara;1/25/1999;26;Petani;" Rp210;000 ";4;0;0;1;0;2;1;Tidak menerima bansos
+Restu Adriansya;3200049320127450;Sorong;Papua Barat;10/5/1963;61;Buru;" Rp1;000;000 ";8;0;2;2;2;1;5;menerima bansos
+Puji Nasiruddin;3200425506790390;Palembang;Sumatera Selatan;10/1/1991;33;Tidak Bekerja; Rp-   ;4;1;2;0;1;0;2;Tidak menerima bansos
+Sutan Jayadi Irawan;3200180414171600;Sorong;Papua Barat;8/30/1967;57;Wiraswasta;" Rp500;000 ";6;0;2;2;0;2;4;menerima bansos
+Cintia Lazuardi;3200739812166610;Samarinda;Kalimantan Timur;5/4/1988;37;Karyawan;" Rp500;000 ";1;0;0;0;0;0;0;Tidak menerima bansos
+Rama Firgantoro;3200025210698250;Makassar;Sulawesi Selatan;2/28/1987;38;Wiraswasta;" Rp1;000;000 ";4;0;3;0;0;1;2;Tidak menerima bansos
+Paris Samosir;3200993498459410;Palu;Sulawesi Tengah;12/5/1995;29;Karyawan;" Rp1;500;000 ";7;1;3;2;0;0;3;Tidak menerima bansos
+Ani Pertiwi;3200814482874190;Manokwari;Papua Barat;3/15/1985;40;Tidak Bekerja; Rp-   ;6;0;3;2;1;0;4;menerima bansos
+Agnes Zulkarnain;3200220648151380;Padang;Sumatera Barat;10/7/1955;69;Karyawan;" Rp500;000 ";8;1;1;2;1;2;4;menerima bansos
+Jessica Siombing;3200442114417620;Semarang;Jawa Tengah;7/22/1974;50;Karyawan;" Rp2;000;000 ";7;1;3;0;2;1;4;menerima bansos
+Safina Uyaina;3200462073016340;Semarang;Jawa Tengah;9/7/1993;31;Wiraswasta;" Rp500;000 ";4;0;2;0;2;0;2;Tidak menerima bansos
+Arjaya Mandala;3200405825764770;Semarang;Jawa Tengah;2/18/2000;25;Wiraswasta;" Rp2;000;000 ";6;0;3;2;1;0;4;menerima bansos
+Puti Melinda Oktaviani;3200781267445380;Semarang;Jawa Tengah;7/20/1957;67;Buru;" Rp2;000;000 ";6;0;3;0;1;1;4;menerima bansos
+Dian Pranowo;3200435605629370;Depok;Jawa Barat;10/13/1964;60;Petani;" Rp500;000 ";7;0;3;0;2;1;4;menerima bansos
+Karima Purnawati;3200517137581240;Manokwari;Papua Barat;3/2/1993;32;Wiraswasta;" Rp2;000;000 ";6;1;0;1;1;2;3;Tidak menerima bansos
+Maida Uwais;3200638513342870;Manado;Sulawesi Utara;9/11/1996;28;Buruh;" Rp1;500;000 ";8;0;2;2;2;2;5;menerima bansos
+Kartika Mangunsong;3200380621384070;Gorontalo;Gorontalo;5/24/1967;58;Tidak Bekerja; Rp-   ;4;1;1;1;0;1;1;Tidak menerima bansos
+Rusman Artati;3200045739186320;Surabaya;Jawa Timur;12/28/1972;52;Buru;" Rp1;500;000 ";4;1;2;0;0;0;1;Tidak menerima bansos
+Adiarja Ardiansya;3200955515050410;Malang;Jawa Timur;12/30/1995;29;Buru;" Rp1;500;000 ";7;0;3;1;2;0;3;Tidak menerima bansos
+Jamil Namaga;3200875501079860;Semarang;Jawa Tengah;4/29/1975;50;Tidak Bekerja; Rp-   ;4;0;1;1;1;1;2;Tidak menerima bansos
+Rina Utama;3200199651276750;Malang;Jawa Timur;1/27/1984;41;Buru;" Rp329;000 ";8;1;2;1;2;1;4;menerima bansos
+Gina Jailani.;3200207021779520;Palembang;Sumatera Selatan;11/1/1960;64;Buruh;" Rp1;000;000 ";9;1;3;1;2;1;4;menerima bansos
+Farunnisa Siotang;3200744952960150;Padang;Sumatera Barat;5/7/1956;69;Buruh;" Rp1;000;000 ";1;0;0;0;0;1;1;Tidak menerima bansos
+Jane Idayanto;3200297733053530;Bogor;Kalimantan Timur;7/1/1973;52;Wiraswasta;" Rp500;000 ";4;1;0;1;0;1;1;Tidak menerima bansos
+Samia Pertiwi;3200551109884620;Samarinda;Kalimantan Timur;7/12/1993;31;Buruh;" Rp2;000;000 ";5;1;0;1;0;2;2;Tidak menerima bansos
+Ani Alim;3200018994849230;Manado;Sulawesi Utara;5/30/1988;37;Petani;" Rp1;500;000 ";5;1;1;1;2;0;2;Tidak menerima bansos
+Balijan Manullang;3200282223047660;Manado;Sulawesi Utara;9/7/1985;39;Wiraswasta;" Rp1;000;000 ";6;1;1;1;2;0;2;Tidak menerima bansos
+Embu Aryanto;3200103222695400;Pekanbaru;Riau;12/9/1963;61;Petani;" Rp1;500;000 ";4;0;0;2;2;0;2;Tidak menerima bansos
+Wirda Siregar;3200944988466940;Balikpapan;Kalimantan Timur;7/13/1959;65;Karyawan;" Rp2;000;000 ";6;0;1;2;2;1;4;menerima bansos
+Sabrina Narpati;3200308188413290;Merauke;Papua Selatan;9/20/1971;53;Buruh;" Rp1;500;000 ";7;0;3;0;2;2;4;menerima bansos
+Yono Utasoit;3200724061552400;Jambi;Jambi;9/7/1981;43;Petani;" Rp500;000 ";5;1;1;1;2;0;2;Tidak menerima bansos
+Ika Setiawan;3200652406806430;Gorontalo;Gorontalo;1/27/1970;55;Karyawan;" Rp2;300;000 ";8;0;3;0;2;2;4;menerima bansos
+Simon Wacana;3200219141897900;Lampung;Lampung;2/9/1997;28;Petani;" Rp3;200;000 ";8;0;3;1;1;2;5;menerima bansos
+Ira Winarno;3200232584334420;Depok;Jawa Barat;11/22/1998;26;Wiraswasta;" Rp500;000 ";10;1;2;2;2;2;5;menerima bansos
+Mutia Laksita;3200820302144670;Jambi;Jambi;5/25/1989;36;Wiraswasta;" Rp4;000;000 ";5;1;1;0;2;0;3;Tidak menerima bansos
+Kcakrawala Fujiati;3200152307066470;Surabaya;Jawa Timur;2/24/1995;30;Tidak Bekerja; Rp-   ;6;1;2;1;1;0;3;Tidak menerima bansos
+Mitra Assana;3200330342271580;Pekanbaru;Riau;7/2/1996;29;Tidak Bekerja; Rp-   ;5;1;1;0;2;0;2;Tidak menerima bansos
+Asna Maryati;3200693578304360;Semarang;Jawa Tengah;7/29/1959;65;Petani;" Rp500;000 ";7;0;3;0;2;1;4;menerima bansos
+Azalea Kusumo;3200869559055860;Jayapura;Papua;5/11/1986;39;Tidak Bekerja; Rp-   ;4;1;0;1;1;1;2;Tidak menerima bansos
+Artawan Latupono;3200960591723620;Bogor;Kalimantan Timur;4/7/1991;34;Buruh;" Rp1;000;000 ";4;0;2;0;1;0;2;Tidak menerima bansos
+Pangeran Lazuardi;3200197054120870;Makassar;Sulawesi Selatan;12/2/1990;34;Tidak Bekerja; Rp-   ;7;0;2;1;1;2;4;menerima bansos
+Puti Suryono;3200704389527620;Malang;Jawa Timur;10/14/1984;40;Buruh;" Rp1;500;000 ";5;0;3;0;0;2;3;Tidak menerima bansos
+Nrima Nurdiyanti;3200099853946180;Sorong;Papua Barat;10/8/1992;32;Wiraswasta;" Rp2;000;000 ";1;1;0;0;0;0;0;Tidak menerima bansos
+Vera Nurdiyanti;3200029823600090;Balikpapan;Kalimantan Timur;9/8/1981;43;Tidak Bekerja; Rp-   ;7;1;3;0;2;1;4;menerima bansos
+Mala Maendra;3200290322968000;Semarang;Jawa Tengah;8/28/1957;67;Buruh;" Rp1;500;000 ";8;1;3;2;1;1;5;menerima bansos
+Ika Fujiati;3200040148108530;Kendari;Sulawesi Tenggara;2/10/1977;48;Wiraswasta;" Rp1;000;000 ";7;1;0;2;2;2;4;menerima bansos
+Cindy Susanti;3200102277121570;Merauke;Papua Selatan;12/23/1979;45;Wiraswasta;" Rp1;000;000 ";6;0;2;0;1;2;4;menerima bansos
+Tania Rajasa;3200765129286810;Pekanbaru;Riau;3/13/1993;32;Tidak Bekerja; Rp-   ;4;0;0;2;0;1;2;Tidak menerima bansos
+Damar Maryati;3200841027737780;Manado;Sulawesi Utara;12/21/1963;61;Tidak Bekerja; Rp-   ;7;1;3;1;0;1;3;Tidak menerima bansos
+Ica Abibi;3200797231830960;Makassar;Sulawesi Selatan;11/29/1976;48;Wiraswasta;" Rp1;000;000 ";4;1;0;2;0;0;1;Tidak menerima bansos
+Sakura Yuniar;3200679327879710;Malang;Jawa Timur;5/23/1988;37;Buruh;" Rp1;000;000 ";6;0;1;1;2;2;3;Tidak menerima bansos
+Maida Gunarto;3200174543421020;Jambi;Jambi;6/6/1972;53;Wiraswasta;" Rp500;000 ";4;0;1;1;1;1;2;Tidak menerima bansos
+Jayadi Nurdiyanti;3200055348133000;Semarang;Jawa Tengah;1/18/1992;33;Buruh;" Rp1;000;000 ";6;0;2;0;2;1;4;menerima bansos
+Eli Utama;3200671405050990;Bogor;Kalimantan Timur;6/26/1973;52;Wiraswasta;" Rp500;000 ";6;1;2;0;2;0;3;Tidak menerima bansos
+Paris Sitompul;3200890619220210;Lampung;Lampung;2/8/1968;57;Petani;" Rp1;000;000 ";6;0;0;1;2;2;3;Tidak menerima bansos
+Ilsa Siombing;3200496040347410;Jayapura;Papua;9/2/1981;43;Karyawan;" Rp4;300;000 ";3;0;1;1;0;0;1;Tidak menerima bansos
+Legawa Permadi;3200507357672510;Lampung;Lampung;7/3/1967;58;Wiraswasta;" Rp1;000;000 ";7;1;2;2;1;1;5;menerima bansos
+Mnrima Suartini;3200783287652660;Manokwari;Papua Barat;6/8/1965;60;Wiraswasta;" Rp1;500;000 ";3;0;0;0;1;2;2;Tidak menerima bansos
+Cut Novi Saptono;3200878136674070;Bengkulu;Kalimantan Timur;12/3/1978;46;Tidak Bekerja; Rp-   ;5;1;0;0;2;1;3;Tidak menerima bansos
+Lemba Siombing;3200945501457530;Makassar;Sulawesi Selatan;4/17/2000;25;Tidak Bekerja; Rp-   ;4;1;0;1;2;0;1;Tidak menerima bansos
+Enda Aryanti;3200096601422620;Medan;Sumatera Utara;1/9/1964;61;Wiraswasta;" Rp500;000 ";5;1;1;0;2;0;2;Tidak menerima bansos
+Paulin Putra;3200627441800870;Sorong;Papua Barat;1/15/1982;43;Buruh;" Rp2;500;000 ";5;1;1;1;2;0;2;Tidak menerima bansos
+Amalia Laksmiwati;3200459841875040;Semarang;Jawa Tengah;10/9/1993;31;Petani;" Rp500;000 ";9;1;2;2;1;2;5;menerima bansos
+Purwadi Usada;3200358669348150;Padang;Sumatera Barat;3/17/2000;25;Wiraswasta;" Rp500;000 ";6;1;1;1;1;2;3;Tidak menerima bansos
+Unggul Utami;3200195472340120;Bengkulu;Kalimantan Timur;11/30/1991;33;Wiraswasta;" Rp1;500;000 ";2;0;0;1;0;1;1;Tidak menerima bansos
+Arsanto Januar;3200225050365850;Pontianak;Kalimantan Barat;11/12/1969;55;Petani;" Rp1;000;000 ";7;0;0;2;2;2;4;menerima bansos
+Marsito Mangunsong;3200852303592570;Manado;Sulawesi Utara;4/20/1984;41;Petani;" Rp1;500;000 ";3;0;0;2;0;1;2;Tidak menerima bansos
+Safina Putra;3200994090487450;Palembang;Sumatera Selatan;12/21/1990;34;Tidak Bekerja; Rp-   ;6;1;2;0;1;2;4;menerima bansos
+Jasmin Pradipta;3200774038899450;Surabaya;Jawa Timur;1/4/1968;57;Wiraswasta;" Rp1;000;000 ";7;1;2;1;2;1;4;menerima bansos
+Martani Dongoran;3200770082161830;Jambi;Jambi;6/30/1996;29;Petani;" Rp2;000;000 ";8;1;3;1;1;2;4;menerima bansos
+Unjani Mandala;3200572902141520;Medan;Sumatera Utara;11/20/1973;51;Tidak Bekerja; Rp-   ;2;0;0;2;0;0;1;Tidak menerima bansos
+Tgkjuli Wijaya;3200725412840920;Bekasi;Kalimantan Timur;11/15/1973;51;Wiraswasta;" Rp1;000;000 ";5;1;1;2;0;1;3;Tidak menerima bansos
+Pangestu Suryatmi;3200262667210620;Palangka Raya;Kalimantan Tengah;9/14/1977;47;Wiraswasta;" Rp2;000;000 ";6;1;1;0;2;1;3;Tidak menerima bansos
+Endra Wulandari.;3200571783750650;Yogyakarta;DI Yogyakarta;6/21/1959;66;Karyawan;" Rp800;000 ";7;0;2;2;2;1;5;menerima bansos
+Sabrina Saragi;3200356495723310;Samarinda;Kalimantan Timur;11/26/1970;54;Buruh;" Rp900;000 ";8;1;3;0;2;1;4;menerima bansos
+Banawa Astuti;3200873896691570;Sorong;Papua Barat;3/21/1984;41;Wiraswasta;" Rp1;000;000 ";5;0;2;1;0;1;3;Tidak menerima bansos
+Safina Astuti;3200837055138220;Balikpapan;Kalimantan Timur;2/20/1977;48;Petani;" Rp1;500;000 ";5;0;1;1;1;1;3;Tidak menerima bansos
+Ajiman Nugroo;3200498370616320;Pontianak;Kalimantan Barat;3/27/1981;44;Petani;" Rp500;000 ";7;0;1;2;2;1;4;menerima bansos
+Jarwa Pratiwi;3200658699375730;Kendari;Sulawesi Tenggara;3/4/1960;65;Petani;" Rp500;000 ";10;1;3;2;2;1;5;menerima bansos
+Kanda Adriansya;3200174081566990;Jayapura;Papua;3/2/1993;32;Karyawan;" Rp2;000;000 ";3;0;0;0;2;0;1;Tidak menerima bansos
+Gambira Farida;3200523702813500;Medan;Sumatera Utara;5/2/1982;43;Tidak Bekerja; Rp-   ;8;0;3;2;0;2;4;menerima bansos
+Arsanto Laksita;3200528521489840;Padang;Sumatera Barat;5/15/1998;27;Wiraswasta;" Rp500;000 ";3;0;1;1;0;1;1;Tidak menerima bansos
+Gambira Palastri;3200466008106100;Merauke;Papua Selatan;5/27/1959;66;Karyawan;" Rp500;000 ";6;0;1;2;2;0;3;Tidak menerima bansos
+Mariadi Wacana;3200272241360880;Palu;Sulawesi Tengah;8/14/1979;45;Karyawan;" Rp1;000;000 ";4;1;1;0;1;1;2;Tidak menerima bansos
+Latif Wacana;3200077380111950;Merauke;Papua Selatan;8/9/1972;52;Wiraswasta;" Rp2;000;000 ";4;0;0;1;2;1;2;Tidak menerima bansos
+Jagapati Wibowo;3200060399736690;Pontianak;Kalimantan Barat;7/8/1984;40;Wiraswasta;" Rp500;000 ";5;0;2;2;0;1;4;menerima bansos
+Rella Nainggolan;3200708703542510;Manokwari;Papua Barat;10/14/1996;28;Tidak Bekerja; Rp-   ;4;0;3;0;0;1;2;Tidak menerima bansos
+Dian Mardiya;3200153523845300;Manokwari;Papua Barat;9/9/1971;53;Tidak Bekerja; Rp-   ;5;1;0;2;1;1;4;menerima bansos
+Darmana Ariya;3200421248031820;Manado;Sulawesi Utara;12/21/1956;68;Petani;" Rp500;000 ";4;0;2;0;0;2;2;Tidak menerima bansos
+Latif Siotang;3200798483608270;Bandung;Jawa Barat;11/15/1989;35;Buruh;" Rp700;000 ";1;1;0;0;0;0;0;Tidak menerima bansos
+Irwan Maendra;3200089662024040;Palembang;Sumatera Selatan;1/21/1986;39;Buruh;" Rp500;000 ";5;0;2;1;1;1;4;menerima bansos
+Cintia Prayoga;3200279108562490;Bengkulu;Kalimantan Timur;8/27/1970;54;Karyawan;" Rp1;000;000 ";5;1;2;1;1;0;3;Tidak menerima bansos
+Pandu Purnawati;3200105835271790;Padang;Sumatera Barat;1/12/1958;67;Tidak Bekerja; Rp-   ;7;0;3;0;2;2;4;menerima bansos
+Rati Zulkarnain;3200074922325540;Pekanbaru;Riau;3/26/1991;34;Petani;" Rp1;500;000 ";3;0;0;1;2;0;1;Tidak menerima bansos
+Tgkbakiono Prasetya;3200544224361900;Lampung;Lampung;6/25/1989;36;Buruh;" Rp1;500;000 ";9;0;3;2;1;2;5;menerima bansos
+Puti Ika Ariya;3200103709915640;Bandung;Jawa Barat;3/21/1988;37;Wiraswasta;" Rp500;000 ";9;1;2;2;2;1;5;menerima bansos
+Ari Idayanto;3200101339940980;Palembang;Sumatera Selatan;12/10/1973;51;Petani;" Rp1;500;000 ";6;0;3;0;1;1;4;menerima bansos
+Cut Jessica Raayu;3200209094551780;Palembang;Sumatera Selatan;5/19/1976;49;Wiraswasta;" Rp1;000;000 ";5;1;3;1;0;0;2;Tidak menerima bansos
+Irnanto Andayani;3200336701423120;Pontianak;Kalimantan Barat;4/13/1966;59;Petani;" Rp1;500;000 ";6;1;2;2;0;1;4;menerima bansos
+Nalar Nuraini;3200817995337750;Banjarmasin;Kalimantan Selatan;8/3/1999;25;Wiraswasta;" Rp2;000;000 ";3;0;1;1;1;0;1;Tidak menerima bansos
+Jasmin Budiyanto;3200435210582180;Sorong;Papua Barat;4/15/1982;43;Tidak Bekerja; Rp-   ;2;0;1;0;0;1;1;Tidak menerima bansos
+Fitria Abibi;3200720652356880;Bengkulu;Kalimantan Timur;6/25/1993;32;Tidak Bekerja; Rp-   ;8;1;3;2;1;0;4;menerima bansos
+Cindy Putra;3200784553667130;Manokwari;Papua Barat;1/15/2000;25;Buruh;" Rp4;000;000 ";5;1;1;1;1;1;4;menerima bansos
+Vivi Assana;3200386806393370;Jayapura;Papua;1/15/1978;47;Tidak Bekerja; Rp-   ;1;0;0;0;0;0;0;Tidak menerima bansos
+Amima Firmansya;3200639730549370;Banjarmasin;Kalimantan Selatan;10/27/1983;41;Tidak Bekerja; Rp-   ;7;1;2;0;2;2;4;menerima bansos
+Ellis Yulianti;3200555357500330;Manado;Sulawesi Utara;6/18/1975;50;Petani;" Rp1;000;000 ";5;1;2;1;0;1;3;Tidak menerima bansos
